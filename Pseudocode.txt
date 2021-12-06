@@ -1,0 +1,16 @@
+// We store the edges as straight edges (for easy game)
+// Store into Database (MongoDB, Sqlite, PostgresQL)
+
+// Pre processing step (Floyd Warshall -> Time complexity O(V^3))
+// Space complexity O(V^2)
+// We will store the distance and path matrix --> O(V^2)
+
+for (int k = 0; k < V; k++) // remember, k first
+    for (int i = 0; i < V; i++) // before i
+        for (int j = 0; j < V; j++) // then j
+            D[i][j] = Math.min(D[i][j], D[i][k]+D[k][j]);
+
+// For user
+// At that point, we will lookup our distance matrix for the distances that satisfies the user dist
+// Then we lookup the path matrix for the paths and output to the user the top 3 paths --> Send to web app
+
