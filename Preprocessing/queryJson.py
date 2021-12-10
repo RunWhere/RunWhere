@@ -33,5 +33,26 @@ def testZone(zone):
         print(i['longitude'])
 
 
-testZone('ZoneC')
+# Step 1 -> Form complete graph for each zone
+# store all of the complete graph in an edgelist
+# edgeListZoneA = [
+#     ["ZoneA","Faculty of Engineering","Temasek Lab",dist],
+# ]
+# Step 2
+# We select edges. + (BFS)
+
+# step 3 (Run Floyd Warshall)
+## distance space o(V^2) * 3
+## path array space o(v^2) * 3
+
+row = [
+    [["Faculty of Engineering",0],["Temasek Lab", 0.18]], 
+    [["Faculty of Engineering",0.18],["Temasek Lab", 0]]
+]
+
+with open("Data/test.json", 'w') as outfile:
+    print(json.dump(row, outfile))
+
+
+# testZone('ZoneC')
 # print(distance(loaded['ZoneA'][0]['latitude'], loaded['ZoneA'][0]['longitude'], loaded['ZoneA'][1]['latitude'], loaded['ZoneA'][1]['longitude']))
