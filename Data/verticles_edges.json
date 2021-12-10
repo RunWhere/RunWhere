@@ -1,0 +1,253 @@
+{
+    "ZoneA" : [
+        {
+            "name" : "Faculty of Engineering",
+            "latitude" : 1.3002328, 
+            "longitude" : 103.7685536
+        },
+
+        {
+            "name" : "Temasek Lab",
+            "latitude" : 1.2997217,
+            "longitude" : 103.7701015
+        },
+
+        {
+            "name" : "School of Design and Enviornment",
+            "latitude" : 1.2973865,
+            "longitude" : 103.7680594
+        },
+
+        {
+            "name" : "Centre for English Language Communication (CELC)",
+            "latitude" : 1.297001,
+            "longitude" : 103.7692454
+        },
+
+        {
+            "name" : "School of Continuing and Lifelong Education (SCALE)",
+            "latitude" : 1.2961592865754,
+            "longitude" : 103.77224213451
+        },
+        
+        {
+            "name" : "University Scholars Programme",
+            "latitude" : 1.306710229,
+            "longitude" : 103.7734601
+        },
+        
+        {
+            "name" : "Yale-NUS College",
+            "latitude" : 1.307267498,
+            "longitude" : 103.7722093
+        },
+        
+        {
+            "name" : "Yong Siew Toh Conservatory of Music",
+            "latitude" : 1.30256017,
+            "longitude" : 103.7726908
+        }, 
+        
+        {
+            "name" : "University Cultural Centre",
+            "latitude" : 1.301728637,
+            "longitude" : 103.7721489
+        }, 
+        
+        {
+            "name" : "Education Resource Centre",
+            "latitude" : 1.306017569,
+            "longitude" :  103.7728852
+        },
+
+        {
+            "name": "Yusof Ishak House",
+            "latitude" : 1.298410586,
+            "longitude" : 103.7745539
+        },
+
+        {
+            "name" : "Raffles Hall",
+            "latitude" : 1.299872783,
+            "longitude" : 103.7738292
+        },
+
+        {
+            "name" : "University Town Residences",
+            "latitude" : 1.3052071,
+            "longitude" : 103.7717158
+        },
+
+        {
+            "name" : "Residential College 4",
+            "latitude" : 1.3079806,
+            "longitude" : 103.7718513
+        },
+        
+        {
+            "name" : "College of Alice & Peter Tan (CAPT)",
+            "latitude" : 1.3079674,
+            "longitude" : 103.772565
+        }
+    ],
+    
+    "ZoneB" : [
+        {
+            "name" : "Faculty of Dentistry",
+            "latitude" : 1.295509,
+            "longitude" : 103.7832497
+        },
+
+        {
+            "name" : "Yoo Lin School of Medicine",
+            "latitude" : 1.2963801,
+            "longitude" : 103.7796249
+        },
+
+        {
+            "name" : "Medical Library",
+            "latitude" : 1.2952619,
+            "longitude" : 103.7796946
+        },
+        
+        {
+            "name" : "Saw Swee Hock School of Public Health",
+            "latitude" : 1.2956536,
+            "longitude" : 103.7781084
+        },
+        
+        {
+            "name" : "Science Library",
+            "latitude" : 1.2952678,
+            "longitude" : 103.7779491
+        },
+        
+        {
+            "name" : "Faculty of Science",
+            "latitude" : 1.2959505,
+            "longitude" : 103.7783642
+        },
+
+        {
+            "name" : "NUS Graduate School for Integrative Sciences and Engineering",
+            "latitude" : 1.296648,
+            "longitude" : 103.7742052
+        },
+
+        {
+            "name" : "University Hall",
+            "latitude" : 1.2973067,
+            "longitude" : 103.7757155
+        },
+
+        {
+            "name" : "TMSI",
+            "latitude" : 1.297356,
+            "longitude" : 103.7724869
+        },
+
+        {
+            "name" : "King Edward VIl Hall",
+            "latitude" : 1.2893324,
+            "longitude" : 103.7877108
+        },
+        
+        {
+            "name" : "Ridge View Residential College",
+            "latitude" : 1.2975857,
+            "longitude" : 103.7749903
+        }
+        
+    ],
+
+    "ZoneC" : [
+        {
+            "name" : "Business School",
+            "latitude" : 1.294293526,
+            "longitude" : 103.7745665
+        },
+
+        {
+            "name" : "Faculty of Arts and Social Sciences",
+            "latitude" : 1.294458488,
+            "longitude" : 103.7711744
+        },
+
+        {
+            "name" : "Institute of Systems Science",
+            "latitude" : 1.2920930425045065,
+            "longitude" : 103.7765681398359
+        },
+    
+        {
+            "name" : "School of Computing",
+            "latitude" : 1.294896602,
+            "longitude" : 103.7739567
+        },
+
+        {
+            "name" : "Central Library",
+            "latitude" : 1.296261755,
+            "longitude" : 103.7730289
+        },
+        {
+            "name" : "Hon Sui Sen Memorial Library",
+            "latitude" : 1.293081017,
+            "longitude" : 103.7746998
+        },
+
+        {
+            "name" : "I3",
+            "latitude" : 1.29217,
+            "longitude" : 103.77582
+        },
+
+        {
+            "name" : "I4",
+            "latitude" : 1.2924598,
+            "longitude" : 103.7585845
+        },
+
+        {
+            "name" : "TCOMS",
+            "latitude" : 1.2932431283021,
+            "longitude" : 103.77678590401
+        },
+    
+        {
+            "name" : "Eusoff Hall",
+            "latitude" : 1.293282767,
+            "longitude" : 103.7702482
+        },
+    
+        {
+            "name" : "Kent Ridge Hall",
+            "latitude" : 1.291926111,
+            "longitude" : 103.774542
+        },
+
+        {
+            "name" : "PGP House",
+            "latitude" : 1.2906198,
+            "longitude" : 103.78042475
+        },
+
+        {
+            "name" : "Prince George's Park Residences",
+            "latitude" : 1.290992919,
+            "longitude" : 103.7812283
+        },
+    
+        {
+            "name" : "Sheares Hall",
+            "latitude" : 1.291074195,
+            "longitude" : 103.7756714
+        },
+    
+        {
+            "name" : "Temasek Hall",
+            "latitude" : 1.292903596,
+            "longitude" : 103.7713867 
+        }
+    ]
+}
