@@ -1,0 +1,632 @@
+[
+    [
+        "ZoneA",
+        "Faculty of Engineering",
+        "Temasek Lab",
+        0.1812164979486208
+    ],
+    [
+        "ZoneA",
+        "Faculty of Engineering",
+        "School of Design and Enviornment",
+        0.321226955878234
+    ],
+    [
+        "ZoneA",
+        "Faculty of Engineering",
+        "Centre for English Language Communication (CELC)",
+        0.36749666998060654
+    ],
+    [
+        "ZoneA",
+        "Faculty of Engineering",
+        "School of Continuing and Lifelong Education (SCALE)",
+        0.6109836430010208
+    ],
+    [
+        "ZoneA",
+        "Faculty of Engineering",
+        "University Scholars Programme",
+        0.9034775710774143
+    ],
+    [
+        "ZoneA",
+        "Faculty of Engineering",
+        "Yale-NUS College",
+        0.8814903729374713
+    ],
+    [
+        "ZoneA",
+        "Faculty of Engineering",
+        "Yong Siew Toh Conservatory of Music",
+        0.5277279581761215
+    ],
+    [
+        "ZoneA",
+        "Faculty of Engineering",
+        "University Cultural Centre",
+        0.43290467160720897
+    ],
+    [
+        "ZoneA",
+        "Faculty of Engineering",
+        "Education Resource Centre",
+        0.8035063192728883
+    ],
+    [
+        "ZoneA",
+        "Faculty of Engineering",
+        "Yusof Ishak House",
+        0.6971270278720442
+    ],
+    [
+        "ZoneA",
+        "Faculty of Engineering",
+        "Raffles Hall",
+        0.5878336482995025
+    ],
+    [
+        "ZoneA",
+        "Faculty of Engineering",
+        "University Town Residences",
+        0.6553712466838467
+    ],
+    [
+        "ZoneA",
+        "Faculty of Engineering",
+        "Residential College 4",
+        0.9362691878643734
+    ],
+    [
+        "ZoneA",
+        "Faculty of Engineering",
+        "College of Alice & Peter Tan (CAPT)",
+        0.9687818169153808
+    ],
+    [
+        "ZoneA",
+        "Temasek Lab",
+        "School of Design and Enviornment",
+        0.34490489899531424
+    ],
+    [
+        "ZoneA",
+        "Temasek Lab",
+        "Centre for English Language Communication (CELC)",
+        0.3171442160564318
+    ],
+    [
+        "ZoneA",
+        "Temasek Lab",
+        "School of Continuing and Lifelong Education (SCALE)",
+        0.4621049564484625
+    ],
+    [
+        "ZoneA",
+        "Temasek Lab",
+        "University Scholars Programme",
+        0.8621293156049428
+    ],
+    [
+        "ZoneA",
+        "Temasek Lab",
+        "Yale-NUS College",
+        0.8711580646035174
+    ],
+    [
+        "ZoneA",
+        "Temasek Lab",
+        "Yong Siew Toh Conservatory of Music",
+        0.4271669934129937
+    ],
+    [
+        "ZoneA",
+        "Temasek Lab",
+        "University Cultural Centre",
+        0.3187530700333119
+    ],
+    [
+        "ZoneA",
+        "Temasek Lab",
+        "Education Resource Centre",
+        0.7654132963194441
+    ],
+    [
+        "ZoneA",
+        "Temasek Lab",
+        "Yusof Ishak House",
+        0.5159815634782258
+    ],
+    [
+        "ZoneA",
+        "Temasek Lab",
+        "Raffles Hall",
+        0.41473506400860044
+    ],
+    [
+        "ZoneA",
+        "Temasek Lab",
+        "University Town Residences",
+        0.6358000205142224
+    ],
+    [
+        "ZoneA",
+        "Temasek Lab",
+        "Residential College 4",
+        0.9387225858826559
+    ],
+    [
+        "ZoneA",
+        "Temasek Lab",
+        "College of Alice & Peter Tan (CAPT)",
+        0.9569049214601448
+    ],
+    [
+        "ZoneA",
+        "School of Design and Enviornment",
+        "Centre for English Language Communication (CELC)",
+        0.13863672578009978
+    ],
+    [
+        "ZoneA",
+        "School of Design and Enviornment",
+        "School of Continuing and Lifelong Education (SCALE)",
+        0.484589995085406
+    ],
+    [
+        "ZoneA",
+        "School of Design and Enviornment",
+        "University Scholars Programme",
+        1.1980417294349361
+    ],
+    [
+        "ZoneA",
+        "School of Design and Enviornment",
+        "Yale-NUS College",
+        1.1916387096036916
+    ],
+    [
+        "ZoneA",
+        "School of Design and Enviornment",
+        "Yong Siew Toh Conservatory of Music",
+        0.7720298838363734
+    ],
+    [
+        "ZoneA",
+        "School of Design and Enviornment",
+        "University Cultural Centre",
+        0.6631690196426432
+    ],
+    [
+        "ZoneA",
+        "School of Design and Enviornment",
+        "Education Resource Centre",
+        1.0994905733172906
+    ],
+    [
+        "ZoneA",
+        "School of Design and Enviornment",
+        "Yusof Ishak House",
+        0.7308953635933882
+    ],
+    [
+        "ZoneA",
+        "School of Design and Enviornment",
+        "Raffles Hall",
+        0.698451936095761
+    ],
+    [
+        "ZoneA",
+        "School of Design and Enviornment",
+        "University Town Residences",
+        0.9599165709435964
+    ],
+    [
+        "ZoneA",
+        "School of Design and Enviornment",
+        "Residential College 4",
+        1.2511580262561868
+    ],
+    [
+        "ZoneA",
+        "School of Design and Enviornment",
+        "College of Alice & Peter Tan (CAPT)",
+        1.2787193403820236
+    ],
+    [
+        "ZoneA",
+        "Centre for English Language Communication (CELC)",
+        "School of Continuing and Lifelong Education (SCALE)",
+        0.34603427286077615
+    ],
+    [
+        "ZoneA",
+        "Centre for English Language Communication (CELC)",
+        "University Scholars Programme",
+        1.1769007531818623
+    ],
+    [
+        "ZoneA",
+        "Centre for English Language Communication (CELC)",
+        "Yale-NUS College",
+        1.1881798282023739
+    ],
+    [
+        "ZoneA",
+        "Centre for English Language Communication (CELC)",
+        "Yong Siew Toh Conservatory of Music",
+        0.7271930929795003
+    ],
+    [
+        "ZoneA",
+        "Centre for English Language Communication (CELC)",
+        "University Cultural Centre",
+        0.6168716207211639
+    ],
+    [
+        "ZoneA",
+        "Centre for English Language Communication (CELC)",
+        "Education Resource Centre",
+        1.081165978891945
+    ],
+    [
+        "ZoneA",
+        "Centre for English Language Communication (CELC)",
+        "Yusof Ishak House",
+        0.6105872418094097
+    ],
+    [
+        "ZoneA",
+        "Centre for English Language Communication (CELC)",
+        "Raffles Hall",
+        0.6013535461513494
+    ],
+    [
+        "ZoneA",
+        "Centre for English Language Communication (CELC)",
+        "University Town Residences",
+        0.9529074787514457
+    ],
+    [
+        "ZoneA",
+        "Centre for English Language Communication (CELC)",
+        "Residential College 4",
+        1.254773641503288
+    ],
+    [
+        "ZoneA",
+        "Centre for English Language Communication (CELC)",
+        "College of Alice & Peter Tan (CAPT)",
+        1.2740239907764839
+    ],
+    [
+        "ZoneA",
+        "School of Continuing and Lifelong Education (SCALE)",
+        "University Scholars Programme",
+        1.1809982784315562
+    ],
+    [
+        "ZoneA",
+        "School of Continuing and Lifelong Education (SCALE)",
+        "Yale-NUS College",
+        1.2351821477138774
+    ],
+    [
+        "ZoneA",
+        "School of Continuing and Lifelong Education (SCALE)",
+        "Yong Siew Toh Conservatory of Music",
+        0.7134912024561225
+    ],
+    [
+        "ZoneA",
+        "School of Continuing and Lifelong Education (SCALE)",
+        "University Cultural Centre",
+        0.6193702380929945
+    ],
+    [
+        "ZoneA",
+        "School of Continuing and Lifelong Education (SCALE)",
+        "Education Resource Centre",
+        1.09851950658655
+    ],
+    [
+        "ZoneA",
+        "School of Continuing and Lifelong Education (SCALE)",
+        "Yusof Ishak House",
+        0.35876297353281233
+    ],
+    [
+        "ZoneA",
+        "School of Continuing and Lifelong Education (SCALE)",
+        "Raffles Hall",
+        0.4490339726702241
+    ],
+    [
+        "ZoneA",
+        "School of Continuing and Lifelong Education (SCALE)",
+        "University Town Residences",
+        1.007770932490453
+    ],
+    [
+        "ZoneA",
+        "School of Continuing and Lifelong Education (SCALE)",
+        "Residential College 4",
+        1.3151879265590916
+    ],
+    [
+        "ZoneA",
+        "School of Continuing and Lifelong Education (SCALE)",
+        "College of Alice & Peter Tan (CAPT)",
+        1.3134927758917685
+    ],
+    [
+        "ZoneA",
+        "University Scholars Programme",
+        "Yale-NUS College",
+        0.15222887711976002
+    ],
+    [
+        "ZoneA",
+        "University Scholars Programme",
+        "Yong Siew Toh Conservatory of Music",
+        0.4693230206588334
+    ],
+    [
+        "ZoneA",
+        "University Scholars Programme",
+        "University Cultural Centre",
+        0.5727846313662599
+    ],
+    [
+        "ZoneA",
+        "University Scholars Programme",
+        "Education Resource Centre",
+        0.10008260565586613
+    ],
+    [
+        "ZoneA",
+        "University Scholars Programme",
+        "Yusof Ishak House",
+        0.9308539956406934
+    ],
+    [
+        "ZoneA",
+        "University Scholars Programme",
+        "Raffles Hall",
+        0.7613956971794004
+    ],
+    [
+        "ZoneA",
+        "University Scholars Programme",
+        "University Town Residences",
+        0.255999576827724
+    ],
+    [
+        "ZoneA",
+        "University Scholars Programme",
+        "Residential College 4",
+        0.22790166191847655
+    ],
+    [
+        "ZoneA",
+        "University Scholars Programme",
+        "College of Alice & Peter Tan (CAPT)",
+        0.17158879194546622
+    ],
+    [
+        "ZoneA",
+        "Yale-NUS College",
+        "Yong Siew Toh Conservatory of Music",
+        0.5261607038034548
+    ],
+    [
+        "ZoneA",
+        "Yale-NUS College",
+        "University Cultural Centre",
+        0.6159298416836871
+    ],
+    [
+        "ZoneA",
+        "Yale-NUS College",
+        "Education Resource Centre",
+        0.15799565646516095
+    ],
+    [
+        "ZoneA",
+        "Yale-NUS College",
+        "Yusof Ishak House",
+        1.018749430709195
+    ],
+    [
+        "ZoneA",
+        "Yale-NUS College",
+        "Raffles Hall",
+        0.8417428615222127
+    ],
+    [
+        "ZoneA",
+        "Yale-NUS College",
+        "University Town Residences",
+        0.2355825483819986
+    ],
+    [
+        "ZoneA",
+        "Yale-NUS College",
+        "Residential College 4",
+        0.08872015400986047
+    ],
+    [
+        "ZoneA",
+        "Yale-NUS College",
+        "College of Alice & Peter Tan (CAPT)",
+        0.0872947038191354
+    ],
+    [
+        "ZoneA",
+        "Yong Siew Toh Conservatory of Music",
+        "University Cultural Centre",
+        0.11035507384607005
+    ],
+    [
+        "ZoneA",
+        "Yong Siew Toh Conservatory of Music",
+        "Education Resource Centre",
+        0.3850521465109603
+    ],
+    [
+        "ZoneA",
+        "Yong Siew Toh Conservatory of Music",
+        "Yusof Ishak House",
+        0.5057646080497775
+    ],
+    [
+        "ZoneA",
+        "Yong Siew Toh Conservatory of Music",
+        "Raffles Hall",
+        0.32451654312637973
+    ],
+    [
+        "ZoneA",
+        "Yong Siew Toh Conservatory of Music",
+        "University Town Residences",
+        0.3136479771401703
+    ],
+    [
+        "ZoneA",
+        "Yong Siew Toh Conservatory of Music",
+        "Residential College 4",
+        0.6099065134807227
+    ],
+    [
+        "ZoneA",
+        "Yong Siew Toh Conservatory of Music",
+        "College of Alice & Peter Tan (CAPT)",
+        0.6014191569562194
+    ],
+    [
+        "ZoneA",
+        "University Cultural Centre",
+        "Education Resource Centre",
+        0.4838805970769661
+    ],
+    [
+        "ZoneA",
+        "University Cultural Centre",
+        "Yusof Ishak House",
+        0.4556348311421293
+    ],
+    [
+        "ZoneA",
+        "University Cultural Centre",
+        "Raffles Hall",
+        0.27834618049145005
+    ],
+    [
+        "ZoneA",
+        "University Cultural Centre",
+        "University Town Residences",
+        0.38977245345614314
+    ],
+    [
+        "ZoneA",
+        "University Cultural Centre",
+        "Residential College 4",
+        0.6959733112538254
+    ],
+    [
+        "ZoneA",
+        "University Cultural Centre",
+        "College of Alice & Peter Tan (CAPT)",
+        0.6952592339498501
+    ],
+    [
+        "ZoneA",
+        "Education Resource Centre",
+        "Yusof Ishak House",
+        0.8659601593122166
+    ],
+    [
+        "ZoneA",
+        "Education Resource Centre",
+        "Raffles Hall",
+        0.6912808051738897
+    ],
+    [
+        "ZoneA",
+        "Education Resource Centre",
+        "University Town Residences",
+        0.15818026070336866
+    ],
+    [
+        "ZoneA",
+        "Education Resource Centre",
+        "Residential College 4",
+        0.24668949142438545
+    ],
+    [
+        "ZoneA",
+        "Education Resource Centre",
+        "College of Alice & Peter Tan (CAPT)",
+        0.21971384896821164
+    ],
+    [
+        "ZoneA",
+        "Yusof Ishak House",
+        "Raffles Hall",
+        0.181453637555053
+    ],
+    [
+        "ZoneA",
+        "Yusof Ishak House",
+        "University Town Residences",
+        0.818950873856161
+    ],
+    [
+        "ZoneA",
+        "Yusof Ishak House",
+        "Residential College 4",
+        1.1057352138089191
+    ],
+    [
+        "ZoneA",
+        "Yusof Ishak House",
+        "College of Alice & Peter Tan (CAPT)",
+        1.0854263643473947
+    ],
+    [
+        "ZoneA",
+        "Raffles Hall",
+        "University Town Residences",
+        0.6379826670420694
+    ],
+    [
+        "ZoneA",
+        "Raffles Hall",
+        "Residential College 4",
+        0.927973188956277
+    ],
+    [
+        "ZoneA",
+        "Raffles Hall",
+        "College of Alice & Peter Tan (CAPT)",
+        0.910985760315359
+    ],
+    [
+        "ZoneA",
+        "University Town Residences",
+        "Residential College 4",
+        0.3087667673463055
+    ],
+    [
+        "ZoneA",
+        "University Town Residences",
+        "College of Alice & Peter Tan (CAPT)",
+        0.32112089458024373
+    ],
+    [
+        "ZoneA",
+        "Residential College 4",
+        "College of Alice & Peter Tan (CAPT)",
+        0.07935271705490872
+    ]
+]

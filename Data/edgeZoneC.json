@@ -1,0 +1,632 @@
+[
+    [
+        "ZoneC",
+        "Business School",
+        "Faculty of Arts and Social Sciences",
+        0.3775339351492673
+    ],
+    [
+        "ZoneC",
+        "Business School",
+        "Institute of Systems Science",
+        0.3307305929882221
+    ],
+    [
+        "ZoneC",
+        "Business School",
+        "School of Computing",
+        0.09535358120278223
+    ],
+    [
+        "ZoneC",
+        "Business School",
+        "Central Library",
+        0.2776965250673942
+    ],
+    [
+        "ZoneC",
+        "Business School",
+        "Hon Sui Sen Memorial Library",
+        0.1356367505464789
+    ],
+    [
+        "ZoneC",
+        "Business School",
+        "I3",
+        0.2741766695206832
+    ],
+    [
+        "ZoneC",
+        "Business School",
+        "I4",
+        1.7883267495258899
+    ],
+    [
+        "ZoneC",
+        "Business School",
+        "TCOMS",
+        0.2729734300112675
+    ],
+    [
+        "ZoneC",
+        "Business School",
+        "Eusoff Hall",
+        0.4930318581788975
+    ],
+    [
+        "ZoneC",
+        "Business School",
+        "Kent Ridge Hall",
+        0.2632586262534394
+    ],
+    [
+        "ZoneC",
+        "Business School",
+        "PGP House",
+        0.7687574911541649
+    ],
+    [
+        "ZoneC",
+        "Business School",
+        "Prince George's Park Residences",
+        0.8265231970488356
+    ],
+    [
+        "ZoneC",
+        "Business School",
+        "Sheares Hall",
+        0.37845948840276794
+    ],
+    [
+        "ZoneC",
+        "Business School",
+        "Temasek Hall",
+        0.3857980084287154
+    ],
+    [
+        "ZoneC",
+        "Faculty of Arts and Social Sciences",
+        "Institute of Systems Science",
+        0.6547572546584387
+    ],
+    [
+        "ZoneC",
+        "Faculty of Arts and Social Sciences",
+        "School of Computing",
+        0.3131116695069539
+    ],
+    [
+        "ZoneC",
+        "Faculty of Arts and Social Sciences",
+        "Central Library",
+        0.28758853031207754
+    ],
+    [
+        "ZoneC",
+        "Faculty of Arts and Social Sciences",
+        "Hon Sui Sen Memorial Library",
+        0.42077452548497635
+    ],
+    [
+        "ZoneC",
+        "Faculty of Arts and Social Sciences",
+        "I3",
+        0.5757254346217924
+    ],
+    [
+        "ZoneC",
+        "Faculty of Arts and Social Sciences",
+        "I4",
+        1.4171119160275205
+    ],
+    [
+        "ZoneC",
+        "Faculty of Arts and Social Sciences",
+        "TCOMS",
+        0.6382823334557266
+    ],
+    [
+        "ZoneC",
+        "Faculty of Arts and Social Sciences",
+        "Eusoff Hall",
+        0.16641125704878754
+    ],
+    [
+        "ZoneC",
+        "Faculty of Arts and Social Sciences",
+        "Kent Ridge Hall",
+        0.4684446648005016
+    ],
+    [
+        "ZoneC",
+        "Faculty of Arts and Social Sciences",
+        "PGP House",
+        1.1133991981680316
+    ],
+    [
+        "ZoneC",
+        "Faculty of Arts and Social Sciences",
+        "Prince George's Park Residences",
+        1.182225518129703
+    ],
+    [
+        "ZoneC",
+        "Faculty of Arts and Social Sciences",
+        "Sheares Hall",
+        0.6257237450407336
+    ],
+    [
+        "ZoneC",
+        "Faculty of Arts and Social Sciences",
+        "Temasek Hall",
+        0.1744994368677654
+    ],
+    [
+        "ZoneC",
+        "Institute of Systems Science",
+        "School of Computing",
+        0.4259809101694443
+    ],
+    [
+        "ZoneC",
+        "Institute of Systems Science",
+        "Central Library",
+        0.608003372383175
+    ],
+    [
+        "ZoneC",
+        "Institute of Systems Science",
+        "Hon Sui Sen Memorial Library",
+        0.23496124907729798
+    ],
+    [
+        "ZoneC",
+        "Institute of Systems Science",
+        "I3",
+        0.08360727632239219
+    ],
+    [
+        "ZoneC",
+        "Institute of Systems Science",
+        "I4",
+        1.9995968196470708
+    ],
+    [
+        "ZoneC",
+        "Institute of Systems Science",
+        "TCOMS",
+        0.13015481079312669
+    ],
+    [
+        "ZoneC",
+        "Institute of Systems Science",
+        "Eusoff Hall",
+        0.7149129564714286
+    ],
+    [
+        "ZoneC",
+        "Institute of Systems Science",
+        "Kent Ridge Hall",
+        0.22600274119811584
+    ],
+    [
+        "ZoneC",
+        "Institute of Systems Science",
+        "PGP House",
+        0.4589580705909023
+    ],
+    [
+        "ZoneC",
+        "Institute of Systems Science",
+        "Prince George's Park Residences",
+        0.5323012901601507
+    ],
+    [
+        "ZoneC",
+        "Institute of Systems Science",
+        "Sheares Hall",
+        0.15090524038458053
+    ],
+    [
+        "ZoneC",
+        "Institute of Systems Science",
+        "Temasek Hall",
+        0.5830120411658833
+    ],
+    [
+        "ZoneC",
+        "School of Computing",
+        "Central Library",
+        0.1835226868761922
+    ],
+    [
+        "ZoneC",
+        "School of Computing",
+        "Hon Sui Sen Memorial Library",
+        0.21813103119069058
+    ],
+    [
+        "ZoneC",
+        "School of Computing",
+        "I3",
+        0.36718706539041235
+    ],
+    [
+        "ZoneC",
+        "School of Computing",
+        "I4",
+        1.73022338377934
+    ],
+    [
+        "ZoneC",
+        "School of Computing",
+        "TCOMS",
+        0.3643104228748477
+    ],
+    [
+        "ZoneC",
+        "School of Computing",
+        "Eusoff Hall",
+        0.44962395609730504
+    ],
+    [
+        "ZoneC",
+        "School of Computing",
+        "Kent Ridge Hall",
+        0.3366511259134005
+    ],
+    [
+        "ZoneC",
+        "School of Computing",
+        "PGP House",
+        0.8620684706088847
+    ],
+    [
+        "ZoneC",
+        "School of Computing",
+        "Prince George's Park Residences",
+        0.9175298804314557
+    ],
+    [
+        "ZoneC",
+        "School of Computing",
+        "Sheares Hall",
+        0.46581908259314103
+    ],
+    [
+        "ZoneC",
+        "School of Computing",
+        "Temasek Hall",
+        0.3615734356056118
+    ],
+    [
+        "ZoneC",
+        "Central Library",
+        "Hon Sui Sen Memorial Library",
+        0.3994912890599567
+    ],
+    [
+        "ZoneC",
+        "Central Library",
+        "I3",
+        0.5507093514527461
+    ],
+    [
+        "ZoneC",
+        "Central Library",
+        "I4",
+        1.6604537461204831
+    ],
+    [
+        "ZoneC",
+        "Central Library",
+        "TCOMS",
+        0.5358162605684862
+    ],
+    [
+        "ZoneC",
+        "Central Library",
+        "Eusoff Hall",
+        0.4530796080200624
+    ],
+    [
+        "ZoneC",
+        "Central Library",
+        "Kent Ridge Hall",
+        0.5106028505016209
+    ],
+    [
+        "ZoneC",
+        "Central Library",
+        "PGP House",
+        1.0341868407657988
+    ],
+    [
+        "ZoneC",
+        "Central Library",
+        "Prince George's Park Residences",
+        1.083546076617552
+    ],
+    [
+        "ZoneC",
+        "Central Library",
+        "Sheares Hall",
+        0.6473228270826277
+    ],
+    [
+        "ZoneC",
+        "Central Library",
+        "Temasek Hall",
+        0.4156471140857476
+    ],
+    [
+        "ZoneC",
+        "Hon Sui Sen Memorial Library",
+        "I3",
+        0.1605279464393116
+    ],
+    [
+        "ZoneC",
+        "Hon Sui Sen Memorial Library",
+        "I4",
+        1.7928147163994759
+    ],
+    [
+        "ZoneC",
+        "Hon Sui Sen Memorial Library",
+        "TCOMS",
+        0.23260462591285294
+    ],
+    [
+        "ZoneC",
+        "Hon Sui Sen Memorial Library",
+        "Eusoff Hall",
+        0.49537748330148235
+    ],
+    [
+        "ZoneC",
+        "Hon Sui Sen Memorial Library",
+        "Kent Ridge Hall",
+        0.12961227315269688
+    ],
+    [
+        "ZoneC",
+        "Hon Sui Sen Memorial Library",
+        "PGP House",
+        0.6927719021833402
+    ],
+    [
+        "ZoneC",
+        "Hon Sui Sen Memorial Library",
+        "Prince George's Park Residences",
+        0.7619878937235247
+    ],
+    [
+        "ZoneC",
+        "Hon Sui Sen Memorial Library",
+        "Sheares Hall",
+        0.24791384837855576
+    ],
+    [
+        "ZoneC",
+        "Hon Sui Sen Memorial Library",
+        "Temasek Hall",
+        0.36883410334997113
+    ],
+    [
+        "ZoneC",
+        "I3",
+        "I4",
+        1.916283645212577
+    ],
+    [
+        "ZoneC",
+        "I3",
+        "TCOMS",
+        0.16052558323570273
+    ],
+    [
+        "ZoneC",
+        "I3",
+        "Eusoff Hall",
+        0.6316361679808737
+    ],
+    [
+        "ZoneC",
+        "I3",
+        "Kent Ridge Hall",
+        0.14463615359205492
+    ],
+    [
+        "ZoneC",
+        "I3",
+        "PGP House",
+        0.5401381287380331
+    ],
+    [
+        "ZoneC",
+        "I3",
+        "Prince George's Park Residences",
+        0.6153046156777688
+    ],
+    [
+        "ZoneC",
+        "I3",
+        "Sheares Hall",
+        0.12296265301156836
+    ],
+    [
+        "ZoneC",
+        "I3",
+        "Temasek Hall",
+        0.49954017893835884
+    ],
+    [
+        "ZoneC",
+        "I4",
+        "TCOMS",
+        2.025262466403807
+    ],
+    [
+        "ZoneC",
+        "I4",
+        "Eusoff Hall",
+        1.2998392776772663
+    ],
+    [
+        "ZoneC",
+        "I4",
+        "Kent Ridge Hall",
+        1.7749341273717476
+    ],
+    [
+        "ZoneC",
+        "I4",
+        "PGP House",
+        2.4365134918204414
+    ],
+    [
+        "ZoneC",
+        "I4",
+        "Prince George's Park Residences",
+        2.522514812588181
+    ],
+    [
+        "ZoneC",
+        "I4",
+        "Sheares Hall",
+        1.905732060862626
+    ],
+    [
+        "ZoneC",
+        "I4",
+        "Temasek Hall",
+        1.424032695079224
+    ],
+    [
+        "ZoneC",
+        "TCOMS",
+        "Eusoff Hall",
+        0.72678770466044
+    ],
+    [
+        "ZoneC",
+        "TCOMS",
+        "Kent Ridge Hall",
+        0.28925811478942376
+    ],
+    [
+        "ZoneC",
+        "TCOMS",
+        "PGP House",
+        0.4987228246835999
+    ],
+    [
+        "ZoneC",
+        "TCOMS",
+        "Prince George's Park Residences",
+        0.5536155088506873
+    ],
+    [
+        "ZoneC",
+        "TCOMS",
+        "Sheares Hall",
+        0.2711369030700168
+    ],
+    [
+        "ZoneC",
+        "TCOMS",
+        "Temasek Hall",
+        0.6013974384908225
+    ],
+    [
+        "ZoneC",
+        "Eusoff Hall",
+        "Kent Ridge Hall",
+        0.500597681760159
+    ],
+    [
+        "ZoneC",
+        "Eusoff Hall",
+        "PGP House",
+        1.1694033526516598
+    ],
+    [
+        "ZoneC",
+        "Eusoff Hall",
+        "Prince George's Park Residences",
+        1.2468947735204763
+    ],
+    [
+        "ZoneC",
+        "Eusoff Hall",
+        "Sheares Hall",
+        0.6509789365834241
+    ],
+    [
+        "ZoneC",
+        "Eusoff Hall",
+        "Temasek Hall",
+        0.1334011425944008
+    ],
+    [
+        "ZoneC",
+        "Kent Ridge Hall",
+        "PGP House",
+        0.6699032618973301
+    ],
+    [
+        "ZoneC",
+        "Kent Ridge Hall",
+        "Prince George's Park Residences",
+        0.7505018779433532
+    ],
+    [
+        "ZoneC",
+        "Kent Ridge Hall",
+        "Sheares Hall",
+        0.15727920970130949
+    ],
+    [
+        "ZoneC",
+        "Kent Ridge Hall",
+        "Temasek Hall",
+        0.36721828091050834
+    ],
+    [
+        "ZoneC",
+        "PGP House",
+        "Prince George's Park Residences",
+        0.09849276821567668
+    ],
+    [
+        "ZoneC",
+        "PGP House",
+        "Sheares Hall",
+        0.530824415165865
+    ],
+    [
+        "ZoneC",
+        "PGP House",
+        "Temasek Hall",
+        1.0363257272974917
+    ],
+    [
+        "ZoneC",
+        "Prince George's Park Residences",
+        "Sheares Hall",
+        0.6178083376125248
+    ],
+    [
+        "ZoneC",
+        "Prince George's Park Residences",
+        "Temasek Hall",
+        1.1144957105255215
+    ],
+    [
+        "ZoneC",
+        "Sheares Hall",
+        "Temasek Hall",
+        0.5179348047119231
+    ]
+]
