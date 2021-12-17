@@ -1,7 +1,7 @@
 import json
 from math import asin, cos, radians, sin, sqrt
 
-fileName = ['edgeZoneA', 'edgeZoneB', 'edgeZoneC']
+fileName = ['edgeZoneA_complete_edges', 'edgeZoneB_complete_edges', 'edgeZoneC_complete_edges']
     
 def distance(lat1, lon1, lat2, lon2):
      
@@ -98,5 +98,6 @@ def preprocessing():
 preprocessing()
 
 #  (Greedy BFS) for 3 options (2.4km, 5km and 10km)
+# preprocessing for 2.4, 5 and 10
 # # distance space o(V^2) * 3
 # # path array space o(v^2) * 3
