@@ -4,61 +4,7 @@
         "Faculty of Dentistry",
         "Yoo Lin School of Medicine",
         0.4144345369569057
-    ],
-    [
-        "ZoneB",
-        "Faculty of Dentistry",
-        "Medical Library",
-        0.3961620282684928
-    ],
-    [
-        "ZoneB",
-        "Faculty of Dentistry",
-        "Saw Swee Hock School of Public Health",
-        0.5717664506363367
-    ],
-    [
-        "ZoneB",
-        "Faculty of Dentistry",
-        "Science Library",
-        0.5898592540569833
-    ],
-    [
-        "ZoneB",
-        "Faculty of Dentistry",
-        "Faculty of Science",
-        0.5453181930480933
-    ],
-    [
-        "ZoneB",
-        "Faculty of Dentistry",
-        "NUS Graduate School for Integrative Sciences and Engineering",
-        1.0133906262233303
-    ],
-    [
-        "ZoneB",
-        "Faculty of Dentistry",
-        "University Hall",
-        0.8610741471275102
-    ],
-    [
-        "ZoneB",
-        "Faculty of Dentistry",
-        "TMSI",
-        1.2139612913880444
-    ],
-    [
-        "ZoneB",
-        "Faculty of Dentistry",
-        "King Edward VIl Hall",
-        0.8471395266701243
-    ],
-    [
-        "ZoneB",
-        "Faculty of Dentistry",
-        "Ridge View Residential College",
-        0.9467609398132448
-    ],
+    ],  
     [
         "ZoneB",
         "Yoo Lin School of Medicine",
@@ -85,36 +31,6 @@
     ],
     [
         "ZoneB",
-        "Yoo Lin School of Medicine",
-        "NUS Graduate School for Integrative Sciences and Engineering",
-        0.603224848683753
-    ],
-    [
-        "ZoneB",
-        "Yoo Lin School of Medicine",
-        "University Hall",
-        0.44664065621404775
-    ],
-    [
-        "ZoneB",
-        "Yoo Lin School of Medicine",
-        "TMSI",
-        0.8008916443809511
-    ],
-    [
-        "ZoneB",
-        "Yoo Lin School of Medicine",
-        "King Edward VIl Hall",
-        1.1925290142071554
-    ],
-    [
-        "ZoneB",
-        "Yoo Lin School of Medicine",
-        "Ridge View Residential College",
-        0.5323669359003531
-    ],
-    [
-        "ZoneB",
         "Medical Library",
         "Saw Swee Hock School of Public Health",
         0.181631843776269
@@ -122,44 +38,8 @@
     [
         "ZoneB",
         "Medical Library",
-        "Science Library",
-        0.19404225960676175
-    ],
-    [
-        "ZoneB",
-        "Medical Library",
-        "Faculty of Science",
-        0.16654124281327495
-    ],
-    [
-        "ZoneB",
-        "Medical Library",
-        "NUS Graduate School for Integrative Sciences and Engineering",
-        0.6294003331422209
-    ],
-    [
-        "ZoneB",
-        "Medical Library",
-        "University Hall",
-        0.4973576512896371
-    ],
-    [
-        "ZoneB",
-        "Medical Library",
-        "TMSI",
-        0.8344036900734382
-    ],
-    [
-        "ZoneB",
-        "Medical Library",
-        "King Edward VIl Hall",
+        "King Edward VII Hall",
         1.1085289209408358
-    ],
-    [
-        "ZoneB",
-        "Medical Library",
-        "Ridge View Residential College",
-        0.5833141783039844
     ],
     [
         "ZoneB",
@@ -170,38 +50,8 @@
     [
         "ZoneB",
         "Saw Swee Hock School of Public Health",
-        "Faculty of Science",
-        0.043572209436697214
-    ],
-    [
-        "ZoneB",
-        "Saw Swee Hock School of Public Health",
-        "NUS Graduate School for Integrative Sciences and Engineering",
-        0.4477719916371553
-    ],
-    [
-        "ZoneB",
-        "Saw Swee Hock School of Public Health",
-        "University Hall",
-        0.32334174452649533
-    ],
-    [
-        "ZoneB",
-        "Saw Swee Hock School of Public Health",
-        "TMSI",
-        0.6529637417339564
-    ],
-    [
-        "ZoneB",
-        "Saw Swee Hock School of Public Health",
-        "King Edward VIl Hall",
+        "King Edward VII Hall",
         1.278097248480393
-    ],
-    [
-        "ZoneB",
-        "Saw Swee Hock School of Public Health",
-        "Ridge View Residential College",
-        0.4078077484126266
     ],
     [
         "ZoneB",
@@ -212,32 +62,8 @@
     [
         "ZoneB",
         "Science Library",
-        "NUS Graduate School for Integrative Sciences and Engineering",
-        0.4435906859141251
-    ],
-    [
-        "ZoneB",
-        "Science Library",
-        "University Hall",
-        0.33623420655877967
-    ],
-    [
-        "ZoneB",
-        "Science Library",
-        "TMSI",
-        0.6500952044074003
-    ],
-    [
-        "ZoneB",
-        "Science Library",
-        "King Edward VIl Hall",
+        "King Edward VII Hall",
         1.270113269832161
-    ],
-    [
-        "ZoneB",
-        "Science Library",
-        "Ridge View Residential College",
-        0.41787219884420235
     ],
     [
         "ZoneB",
@@ -250,24 +76,6 @@
         "Faculty of Science",
         "University Hall",
         0.3308174797877126
-    ],
-    [
-        "ZoneB",
-        "Faculty of Science",
-        "TMSI",
-        0.6717903617142457
-    ],
-    [
-        "ZoneB",
-        "Faculty of Science",
-        "King Edward VIl Hall",
-        1.273236397467147
-    ],
-    [
-        "ZoneB",
-        "Faculty of Science",
-        "Ridge View Residential College",
-        0.41681415263781374
     ],
     [
         "ZoneB",
@@ -284,26 +92,8 @@
     [
         "ZoneB",
         "NUS Graduate School for Integrative Sciences and Engineering",
-        "King Edward VIl Hall",
-        1.7075803398943667
-    ],
-    [
-        "ZoneB",
-        "NUS Graduate School for Integrative Sciences and Engineering",
         "Ridge View Residential College",
         0.13597404869420654
-    ],
-    [
-        "ZoneB",
-        "University Hall",
-        "TMSI",
-        0.3589537769260237
-    ],
-    [
-        "ZoneB",
-        "University Hall",
-        "King Edward VIl Hall",
-        1.60137442423391
     ],
     [
         "ZoneB",
@@ -314,7 +104,7 @@
     [
         "ZoneB",
         "TMSI",
-        "King Edward VIl Hall",
+        "King Edward VII Hall",
         1.9131577884737354
     ],
     [
@@ -322,11 +112,5 @@
         "TMSI",
         "Ridge View Residential College",
         0.27946363357140996
-    ],
-    [
-        "ZoneB",
-        "King Edward VIl Hall",
-        "Ridge View Residential College",
-        1.6857885442772829
     ]
 ]
