@@ -1,5 +1,8 @@
+from adjMatrix import *
+from floydWarshall import *
 import json
 from math import asin, cos, radians, sin, sqrt
+
 
 fileName = ['edgeZoneA_complete_edges', 'edgeZoneB_complete_edges', 'edgeZoneC_complete_edges']
     
@@ -90,12 +93,26 @@ def testEdgeExistence():
         for i in loaded:
             print(i)
 
+def testAdjMatrix(zone):
+    graphMatrix = edgeListToAdjMatrix(zone)
+    return graphMatrix
+
+def testFloydWarshall(zone):
+
+    distPath = floydWarshall(testAdjMatrix(zone)[1])
+
+    # print(distPath[0])
+    print(distPath[1])
+
+    return 1
+
 def preprocessing():
     exportEdge()
     testEdgeExistence()
 
-
-preprocessing()
+# preprocessing()
+# testAdjMatrix("ZoneA")
+testFloydWarshall("ZoneA")
 
 #  (Greedy BFS) for 3 options (2.4km, 5km and 10km)
 # preprocessing for 2.4, 5 and 10
