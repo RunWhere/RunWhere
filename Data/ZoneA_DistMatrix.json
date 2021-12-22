@@ -1,0 +1,1157 @@
+[
+    [
+        [
+            "Faculty of Engineering",
+            "Faculty of Engineering",
+            0
+        ],
+        [
+            "Faculty of Engineering",
+            "Temasek Lab",
+            0.1812164979486208
+        ],
+        [
+            "Faculty of Engineering",
+            "School of Design and Environment",
+            0.321226955878234
+        ],
+        [
+            "Faculty of Engineering",
+            "Centre for English Language Communication (CELC)",
+            0.36749666998060654
+        ],
+        [
+            "Faculty of Engineering",
+            "School of Continuing and Lifelong Education (SCALE)",
+            1.9317435514586259
+        ],
+        [
+            "Faculty of Engineering",
+            "University Scholars Programme",
+            1.179972195795897
+        ],
+        [
+            "Faculty of Engineering",
+            "Yale-NUS College",
+            1.2401485361367026
+        ],
+        [
+            "Faculty of Engineering",
+            "Yong Siew Toh Conservatory of Music",
+            0.6103246418280027
+        ],
+        [
+            "Faculty of Engineering",
+            "University Cultural Centre",
+            0.4999695679819327
+        ],
+        [
+            "Faculty of Engineering",
+            "Education Resource Centre",
+            1.0821528796715416
+        ],
+        [
+            "Faculty of Engineering",
+            "Yusof Ishak House",
+            0.6971270278720442
+        ],
+        [
+            "Faculty of Engineering",
+            "Raffles Hall",
+            0.5959515619572212
+        ],
+        [
+            "Faculty of Engineering",
+            "University Town Residences",
+            0.9239726189681731
+        ],
+        [
+            "Faculty of Engineering",
+            "Residential College 4",
+            1.3288686901465632
+        ],
+        [
+            "Faculty of Engineering",
+            "College of Alice & Peter Tan (CAPT)",
+            1.327443239955838
+        ]
+    ],
+    [
+        [
+            "Temasek Lab",
+            "Faculty of Engineering",
+            0.1812164979486208
+        ],
+        [
+            "Temasek Lab",
+            "Temasek Lab",
+            0
+        ],
+        [
+            "Temasek Lab",
+            "School of Design and Environment",
+            0.5024434538268548
+        ],
+        [
+            "Temasek Lab",
+            "Centre for English Language Communication (CELC)",
+            0.5487131679292273
+        ],
+        [
+            "Temasek Lab",
+            "School of Continuing and Lifelong Education (SCALE)",
+            1.7505270535100053
+        ],
+        [
+            "Temasek Lab",
+            "University Scholars Programme",
+            0.9987556978472762
+        ],
+        [
+            "Temasek Lab",
+            "Yale-NUS College",
+            1.0589320381880818
+        ],
+        [
+            "Temasek Lab",
+            "Yong Siew Toh Conservatory of Music",
+            0.4291081438793819
+        ],
+        [
+            "Temasek Lab",
+            "University Cultural Centre",
+            0.3187530700333119
+        ],
+        [
+            "Temasek Lab",
+            "Education Resource Centre",
+            0.9009363817229209
+        ],
+        [
+            "Temasek Lab",
+            "Yusof Ishak House",
+            0.5961887015636534
+        ],
+        [
+            "Temasek Lab",
+            "Raffles Hall",
+            0.41473506400860044
+        ],
+        [
+            "Temasek Lab",
+            "University Town Residences",
+            0.7427561210195522
+        ],
+        [
+            "Temasek Lab",
+            "Residential College 4",
+            1.1476521921979423
+        ],
+        [
+            "Temasek Lab",
+            "College of Alice & Peter Tan (CAPT)",
+            1.1462267420072172
+        ]
+    ],
+    [
+        [
+            "School of Design and Environment",
+            "Faculty of Engineering",
+            0.321226955878234
+        ],
+        [
+            "School of Design and Environment",
+            "Temasek Lab",
+            0.5024434538268548
+        ],
+        [
+            "School of Design and Environment",
+            "School of Design and Environment",
+            0
+        ],
+        [
+            "School of Design and Environment",
+            "Centre for English Language Communication (CELC)",
+            0.13863672578009978
+        ],
+        [
+            "School of Design and Environment",
+            "School of Continuing and Lifelong Education (SCALE)",
+            2.25297050733686
+        ],
+        [
+            "School of Design and Environment",
+            "University Scholars Programme",
+            1.5011991516741312
+        ],
+        [
+            "School of Design and Environment",
+            "Yale-NUS College",
+            1.5613754920149367
+        ],
+        [
+            "School of Design and Environment",
+            "Yong Siew Toh Conservatory of Music",
+            0.9315515977062367
+        ],
+        [
+            "School of Design and Environment",
+            "University Cultural Centre",
+            0.8211965238601667
+        ],
+        [
+            "School of Design and Environment",
+            "Education Resource Centre",
+            1.4033798355497757
+        ],
+        [
+            "School of Design and Environment",
+            "Yusof Ishak House",
+            1.0183539837502782
+        ],
+        [
+            "School of Design and Environment",
+            "Raffles Hall",
+            0.9171785178354552
+        ],
+        [
+            "School of Design and Environment",
+            "University Town Residences",
+            1.245199574846407
+        ],
+        [
+            "School of Design and Environment",
+            "Residential College 4",
+            1.650095646024797
+        ],
+        [
+            "School of Design and Environment",
+            "College of Alice & Peter Tan (CAPT)",
+            1.6486701958340721
+        ]
+    ],
+    [
+        [
+            "Centre for English Language Communication (CELC)",
+            "Faculty of Engineering",
+            0.36749666998060654
+        ],
+        [
+            "Centre for English Language Communication (CELC)",
+            "Temasek Lab",
+            0.5487131679292273
+        ],
+        [
+            "Centre for English Language Communication (CELC)",
+            "School of Design and Environment",
+            0.13863672578009978
+        ],
+        [
+            "Centre for English Language Communication (CELC)",
+            "Centre for English Language Communication (CELC)",
+            0
+        ],
+        [
+            "Centre for English Language Communication (CELC)",
+            "School of Continuing and Lifelong Education (SCALE)",
+            2.2992402214392325
+        ],
+        [
+            "Centre for English Language Communication (CELC)",
+            "University Scholars Programme",
+            1.5474688657765037
+        ],
+        [
+            "Centre for English Language Communication (CELC)",
+            "Yale-NUS College",
+            1.6076452061173092
+        ],
+        [
+            "Centre for English Language Communication (CELC)",
+            "Yong Siew Toh Conservatory of Music",
+            0.9778213118086092
+        ],
+        [
+            "Centre for English Language Communication (CELC)",
+            "University Cultural Centre",
+            0.8674662379625392
+        ],
+        [
+            "Centre for English Language Communication (CELC)",
+            "Education Resource Centre",
+            1.4496495496521482
+        ],
+        [
+            "Centre for English Language Communication (CELC)",
+            "Yusof Ishak House",
+            1.0646236978526507
+        ],
+        [
+            "Centre for English Language Communication (CELC)",
+            "Raffles Hall",
+            0.9634482319378277
+        ],
+        [
+            "Centre for English Language Communication (CELC)",
+            "University Town Residences",
+            1.2914692889487795
+        ],
+        [
+            "Centre for English Language Communication (CELC)",
+            "Residential College 4",
+            1.6963653601271695
+        ],
+        [
+            "Centre for English Language Communication (CELC)",
+            "College of Alice & Peter Tan (CAPT)",
+            1.6949399099364446
+        ]
+    ],
+    [
+        [
+            "School of Continuing and Lifelong Education (SCALE)",
+            "Faculty of Engineering",
+            1.9317435514586259
+        ],
+        [
+            "School of Continuing and Lifelong Education (SCALE)",
+            "Temasek Lab",
+            1.7505270535100053
+        ],
+        [
+            "School of Continuing and Lifelong Education (SCALE)",
+            "School of Design and Environment",
+            2.25297050733686
+        ],
+        [
+            "School of Continuing and Lifelong Education (SCALE)",
+            "Centre for English Language Communication (CELC)",
+            2.2992402214392325
+        ],
+        [
+            "School of Continuing and Lifelong Education (SCALE)",
+            "School of Continuing and Lifelong Education (SCALE)",
+            0
+        ],
+        [
+            "School of Continuing and Lifelong Education (SCALE)",
+            "University Scholars Programme",
+            1.1986021122424162
+        ],
+        [
+            "School of Continuing and Lifelong Education (SCALE)",
+            "Yale-NUS College",
+            1.2351821477138774
+        ],
+        [
+            "School of Continuing and Lifelong Education (SCALE)",
+            "Yong Siew Toh Conservatory of Music",
+            1.3214189096306233
+        ],
+        [
+            "School of Continuing and Lifelong Education (SCALE)",
+            "University Cultural Centre",
+            1.4317739834766932
+        ],
+        [
+            "School of Continuing and Lifelong Education (SCALE)",
+            "Education Resource Centre",
+            1.09851950658655
+        ],
+        [
+            "School of Continuing and Lifelong Education (SCALE)",
+            "Yusof Ishak House",
+            1.827389090312056
+        ],
+        [
+            "School of Continuing and Lifelong Education (SCALE)",
+            "Raffles Hall",
+            1.645935452757003
+        ],
+        [
+            "School of Continuing and Lifelong Education (SCALE)",
+            "University Town Residences",
+            1.007770932490453
+        ],
+        [
+            "School of Continuing and Lifelong Education (SCALE)",
+            "Residential College 4",
+            1.323902301723738
+        ],
+        [
+            "School of Continuing and Lifelong Education (SCALE)",
+            "College of Alice & Peter Tan (CAPT)",
+            1.3224768515330128
+        ]
+    ],
+    [
+        [
+            "University Scholars Programme",
+            "Faculty of Engineering",
+            1.179972195795897
+        ],
+        [
+            "University Scholars Programme",
+            "Temasek Lab",
+            0.9987556978472762
+        ],
+        [
+            "University Scholars Programme",
+            "School of Design and Environment",
+            1.5011991516741312
+        ],
+        [
+            "University Scholars Programme",
+            "Centre for English Language Communication (CELC)",
+            1.5474688657765037
+        ],
+        [
+            "University Scholars Programme",
+            "School of Continuing and Lifelong Education (SCALE)",
+            1.1986021122424162
+        ],
+        [
+            "University Scholars Programme",
+            "University Scholars Programme",
+            0
+        ],
+        [
+            "University Scholars Programme",
+            "Yale-NUS College",
+            0.15222887711976002
+        ],
+        [
+            "University Scholars Programme",
+            "Yong Siew Toh Conservatory of Music",
+            0.5696475539678942
+        ],
+        [
+            "University Scholars Programme",
+            "University Cultural Centre",
+            0.6800026278139644
+        ],
+        [
+            "University Scholars Programme",
+            "Education Resource Centre",
+            0.10008260565586613
+        ],
+        [
+            "University Scholars Programme",
+            "Yusof Ishak House",
+            1.075617734649327
+        ],
+        [
+            "University Scholars Programme",
+            "Raffles Hall",
+            0.894164097094274
+        ],
+        [
+            "University Scholars Programme",
+            "University Town Residences",
+            0.255999576827724
+        ],
+        [
+            "University Scholars Programme",
+            "Residential College 4",
+            0.2409490311296205
+        ],
+        [
+            "University Scholars Programme",
+            "College of Alice & Peter Tan (CAPT)",
+            0.17158879194546622
+        ]
+    ],
+    [
+        [
+            "Yale-NUS College",
+            "Faculty of Engineering",
+            1.2401485361367026
+        ],
+        [
+            "Yale-NUS College",
+            "Temasek Lab",
+            1.0589320381880818
+        ],
+        [
+            "Yale-NUS College",
+            "School of Design and Environment",
+            1.5613754920149367
+        ],
+        [
+            "Yale-NUS College",
+            "Centre for English Language Communication (CELC)",
+            1.6076452061173092
+        ],
+        [
+            "Yale-NUS College",
+            "School of Continuing and Lifelong Education (SCALE)",
+            1.2351821477138774
+        ],
+        [
+            "Yale-NUS College",
+            "University Scholars Programme",
+            0.15222887711976002
+        ],
+        [
+            "Yale-NUS College",
+            "Yale-NUS College",
+            0
+        ],
+        [
+            "Yale-NUS College",
+            "Yong Siew Toh Conservatory of Music",
+            0.6298238943086999
+        ],
+        [
+            "Yale-NUS College",
+            "University Cultural Centre",
+            0.7401789681547699
+        ],
+        [
+            "Yale-NUS College",
+            "Education Resource Centre",
+            0.15799565646516095
+        ],
+        [
+            "Yale-NUS College",
+            "Yusof Ishak House",
+            1.1357940749901327
+        ],
+        [
+            "Yale-NUS College",
+            "Raffles Hall",
+            0.9543404374350797
+        ],
+        [
+            "Yale-NUS College",
+            "University Town Residences",
+            0.3161759171685296
+        ],
+        [
+            "Yale-NUS College",
+            "Residential College 4",
+            0.08872015400986047
+        ],
+        [
+            "Yale-NUS College",
+            "College of Alice & Peter Tan (CAPT)",
+            0.0872947038191354
+        ]
+    ],
+    [
+        [
+            "Yong Siew Toh Conservatory of Music",
+            "Faculty of Engineering",
+            0.6103246418280027
+        ],
+        [
+            "Yong Siew Toh Conservatory of Music",
+            "Temasek Lab",
+            0.4291081438793819
+        ],
+        [
+            "Yong Siew Toh Conservatory of Music",
+            "School of Design and Environment",
+            0.9315515977062367
+        ],
+        [
+            "Yong Siew Toh Conservatory of Music",
+            "Centre for English Language Communication (CELC)",
+            0.9778213118086092
+        ],
+        [
+            "Yong Siew Toh Conservatory of Music",
+            "School of Continuing and Lifelong Education (SCALE)",
+            1.3214189096306233
+        ],
+        [
+            "Yong Siew Toh Conservatory of Music",
+            "University Scholars Programme",
+            0.5696475539678942
+        ],
+        [
+            "Yong Siew Toh Conservatory of Music",
+            "Yale-NUS College",
+            0.6298238943086999
+        ],
+        [
+            "Yong Siew Toh Conservatory of Music",
+            "Yong Siew Toh Conservatory of Music",
+            0
+        ],
+        [
+            "Yong Siew Toh Conservatory of Music",
+            "University Cultural Centre",
+            0.11035507384607005
+        ],
+        [
+            "Yong Siew Toh Conservatory of Music",
+            "Education Resource Centre",
+            0.47182823784353894
+        ],
+        [
+            "Yong Siew Toh Conservatory of Music",
+            "Yusof Ishak House",
+            0.5059701806814327
+        ],
+        [
+            "Yong Siew Toh Conservatory of Music",
+            "Raffles Hall",
+            0.32451654312637973
+        ],
+        [
+            "Yong Siew Toh Conservatory of Music",
+            "University Town Residences",
+            0.3136479771401703
+        ],
+        [
+            "Yong Siew Toh Conservatory of Music",
+            "Residential College 4",
+            0.7185440483185603
+        ],
+        [
+            "Yong Siew Toh Conservatory of Music",
+            "College of Alice & Peter Tan (CAPT)",
+            0.7171185981278353
+        ]
+    ],
+    [
+        [
+            "University Cultural Centre",
+            "Faculty of Engineering",
+            0.4999695679819327
+        ],
+        [
+            "University Cultural Centre",
+            "Temasek Lab",
+            0.3187530700333119
+        ],
+        [
+            "University Cultural Centre",
+            "School of Design and Environment",
+            0.8211965238601667
+        ],
+        [
+            "University Cultural Centre",
+            "Centre for English Language Communication (CELC)",
+            0.8674662379625392
+        ],
+        [
+            "University Cultural Centre",
+            "School of Continuing and Lifelong Education (SCALE)",
+            1.4317739834766932
+        ],
+        [
+            "University Cultural Centre",
+            "University Scholars Programme",
+            0.6800026278139644
+        ],
+        [
+            "University Cultural Centre",
+            "Yale-NUS College",
+            0.7401789681547699
+        ],
+        [
+            "University Cultural Centre",
+            "Yong Siew Toh Conservatory of Music",
+            0.11035507384607005
+        ],
+        [
+            "University Cultural Centre",
+            "University Cultural Centre",
+            0
+        ],
+        [
+            "University Cultural Centre",
+            "Education Resource Centre",
+            0.582183311689609
+        ],
+        [
+            "University Cultural Centre",
+            "Yusof Ishak House",
+            0.45979981804650305
+        ],
+        [
+            "University Cultural Centre",
+            "Raffles Hall",
+            0.27834618049145005
+        ],
+        [
+            "University Cultural Centre",
+            "University Town Residences",
+            0.42400305098624036
+        ],
+        [
+            "University Cultural Centre",
+            "Residential College 4",
+            0.8288991221646305
+        ],
+        [
+            "University Cultural Centre",
+            "College of Alice & Peter Tan (CAPT)",
+            0.8274736719739053
+        ]
+    ],
+    [
+        [
+            "Education Resource Centre",
+            "Faculty of Engineering",
+            1.0821528796715416
+        ],
+        [
+            "Education Resource Centre",
+            "Temasek Lab",
+            0.9009363817229209
+        ],
+        [
+            "Education Resource Centre",
+            "School of Design and Environment",
+            1.4033798355497757
+        ],
+        [
+            "Education Resource Centre",
+            "Centre for English Language Communication (CELC)",
+            1.4496495496521482
+        ],
+        [
+            "Education Resource Centre",
+            "School of Continuing and Lifelong Education (SCALE)",
+            1.09851950658655
+        ],
+        [
+            "Education Resource Centre",
+            "University Scholars Programme",
+            0.10008260565586613
+        ],
+        [
+            "Education Resource Centre",
+            "Yale-NUS College",
+            0.15799565646516095
+        ],
+        [
+            "Education Resource Centre",
+            "Yong Siew Toh Conservatory of Music",
+            0.47182823784353894
+        ],
+        [
+            "Education Resource Centre",
+            "University Cultural Centre",
+            0.582183311689609
+        ],
+        [
+            "Education Resource Centre",
+            "Education Resource Centre",
+            0
+        ],
+        [
+            "Education Resource Centre",
+            "Yusof Ishak House",
+            0.9777984185249717
+        ],
+        [
+            "Education Resource Centre",
+            "Raffles Hall",
+            0.7963447809699187
+        ],
+        [
+            "Education Resource Centre",
+            "University Town Residences",
+            0.15818026070336866
+        ],
+        [
+            "Education Resource Centre",
+            "Residential College 4",
+            0.24671581047502142
+        ],
+        [
+            "Education Resource Centre",
+            "College of Alice & Peter Tan (CAPT)",
+            0.24529036028429635
+        ]
+    ],
+    [
+        [
+            "Yusof Ishak House",
+            "Faculty of Engineering",
+            0.6971270278720442
+        ],
+        [
+            "Yusof Ishak House",
+            "Temasek Lab",
+            0.5961887015636534
+        ],
+        [
+            "Yusof Ishak House",
+            "School of Design and Environment",
+            1.0183539837502782
+        ],
+        [
+            "Yusof Ishak House",
+            "Centre for English Language Communication (CELC)",
+            1.0646236978526507
+        ],
+        [
+            "Yusof Ishak House",
+            "School of Continuing and Lifelong Education (SCALE)",
+            1.827389090312056
+        ],
+        [
+            "Yusof Ishak House",
+            "University Scholars Programme",
+            1.075617734649327
+        ],
+        [
+            "Yusof Ishak House",
+            "Yale-NUS College",
+            1.1357940749901327
+        ],
+        [
+            "Yusof Ishak House",
+            "Yong Siew Toh Conservatory of Music",
+            0.5059701806814327
+        ],
+        [
+            "Yusof Ishak House",
+            "University Cultural Centre",
+            0.45979981804650305
+        ],
+        [
+            "Yusof Ishak House",
+            "Education Resource Centre",
+            0.9777984185249717
+        ],
+        [
+            "Yusof Ishak House",
+            "Yusof Ishak House",
+            0
+        ],
+        [
+            "Yusof Ishak House",
+            "Raffles Hall",
+            0.181453637555053
+        ],
+        [
+            "Yusof Ishak House",
+            "University Town Residences",
+            0.8196181578216031
+        ],
+        [
+            "Yusof Ishak House",
+            "Residential College 4",
+            1.2245142289999933
+        ],
+        [
+            "Yusof Ishak House",
+            "College of Alice & Peter Tan (CAPT)",
+            1.2230887788092681
+        ]
+    ],
+    [
+        [
+            "Raffles Hall",
+            "Faculty of Engineering",
+            0.5959515619572212
+        ],
+        [
+            "Raffles Hall",
+            "Temasek Lab",
+            0.41473506400860044
+        ],
+        [
+            "Raffles Hall",
+            "School of Design and Environment",
+            0.9171785178354552
+        ],
+        [
+            "Raffles Hall",
+            "Centre for English Language Communication (CELC)",
+            0.9634482319378277
+        ],
+        [
+            "Raffles Hall",
+            "School of Continuing and Lifelong Education (SCALE)",
+            1.645935452757003
+        ],
+        [
+            "Raffles Hall",
+            "University Scholars Programme",
+            0.894164097094274
+        ],
+        [
+            "Raffles Hall",
+            "Yale-NUS College",
+            0.9543404374350797
+        ],
+        [
+            "Raffles Hall",
+            "Yong Siew Toh Conservatory of Music",
+            0.32451654312637973
+        ],
+        [
+            "Raffles Hall",
+            "University Cultural Centre",
+            0.27834618049145005
+        ],
+        [
+            "Raffles Hall",
+            "Education Resource Centre",
+            0.7963447809699187
+        ],
+        [
+            "Raffles Hall",
+            "Yusof Ishak House",
+            0.181453637555053
+        ],
+        [
+            "Raffles Hall",
+            "Raffles Hall",
+            0
+        ],
+        [
+            "Raffles Hall",
+            "University Town Residences",
+            0.63816452026655
+        ],
+        [
+            "Raffles Hall",
+            "Residential College 4",
+            1.0430605914449402
+        ],
+        [
+            "Raffles Hall",
+            "College of Alice & Peter Tan (CAPT)",
+            1.041635141254215
+        ]
+    ],
+    [
+        [
+            "University Town Residences",
+            "Faculty of Engineering",
+            0.9239726189681731
+        ],
+        [
+            "University Town Residences",
+            "Temasek Lab",
+            0.7427561210195522
+        ],
+        [
+            "University Town Residences",
+            "School of Design and Environment",
+            1.245199574846407
+        ],
+        [
+            "University Town Residences",
+            "Centre for English Language Communication (CELC)",
+            1.2914692889487795
+        ],
+        [
+            "University Town Residences",
+            "School of Continuing and Lifelong Education (SCALE)",
+            1.007770932490453
+        ],
+        [
+            "University Town Residences",
+            "University Scholars Programme",
+            0.255999576827724
+        ],
+        [
+            "University Town Residences",
+            "Yale-NUS College",
+            0.3161759171685296
+        ],
+        [
+            "University Town Residences",
+            "Yong Siew Toh Conservatory of Music",
+            0.3136479771401703
+        ],
+        [
+            "University Town Residences",
+            "University Cultural Centre",
+            0.42400305098624036
+        ],
+        [
+            "University Town Residences",
+            "Education Resource Centre",
+            0.15818026070336866
+        ],
+        [
+            "University Town Residences",
+            "Yusof Ishak House",
+            0.8196181578216031
+        ],
+        [
+            "University Town Residences",
+            "Raffles Hall",
+            0.63816452026655
+        ],
+        [
+            "University Town Residences",
+            "University Town Residences",
+            0
+        ],
+        [
+            "University Town Residences",
+            "Residential College 4",
+            0.4048960711783901
+        ],
+        [
+            "University Town Residences",
+            "College of Alice & Peter Tan (CAPT)",
+            0.403470620987665
+        ]
+    ],
+    [
+        [
+            "Residential College 4",
+            "Faculty of Engineering",
+            1.3288686901465632
+        ],
+        [
+            "Residential College 4",
+            "Temasek Lab",
+            1.1476521921979423
+        ],
+        [
+            "Residential College 4",
+            "School of Design and Environment",
+            1.650095646024797
+        ],
+        [
+            "Residential College 4",
+            "Centre for English Language Communication (CELC)",
+            1.6963653601271695
+        ],
+        [
+            "Residential College 4",
+            "School of Continuing and Lifelong Education (SCALE)",
+            1.323902301723738
+        ],
+        [
+            "Residential College 4",
+            "University Scholars Programme",
+            0.2409490311296205
+        ],
+        [
+            "Residential College 4",
+            "Yale-NUS College",
+            0.08872015400986047
+        ],
+        [
+            "Residential College 4",
+            "Yong Siew Toh Conservatory of Music",
+            0.7185440483185603
+        ],
+        [
+            "Residential College 4",
+            "University Cultural Centre",
+            0.8288991221646305
+        ],
+        [
+            "Residential College 4",
+            "Education Resource Centre",
+            0.24671581047502142
+        ],
+        [
+            "Residential College 4",
+            "Yusof Ishak House",
+            1.2245142289999933
+        ],
+        [
+            "Residential College 4",
+            "Raffles Hall",
+            1.0430605914449402
+        ],
+        [
+            "Residential College 4",
+            "University Town Residences",
+            0.4048960711783901
+        ],
+        [
+            "Residential College 4",
+            "Residential College 4",
+            0
+        ],
+        [
+            "Residential College 4",
+            "College of Alice & Peter Tan (CAPT)",
+            0.07935271705490872
+        ]
+    ],
+    [
+        [
+            "College of Alice & Peter Tan (CAPT)",
+            "Faculty of Engineering",
+            1.327443239955838
+        ],
+        [
+            "College of Alice & Peter Tan (CAPT)",
+            "Temasek Lab",
+            1.1462267420072172
+        ],
+        [
+            "College of Alice & Peter Tan (CAPT)",
+            "School of Design and Environment",
+            1.6486701958340721
+        ],
+        [
+            "College of Alice & Peter Tan (CAPT)",
+            "Centre for English Language Communication (CELC)",
+            1.6949399099364446
+        ],
+        [
+            "College of Alice & Peter Tan (CAPT)",
+            "School of Continuing and Lifelong Education (SCALE)",
+            1.3224768515330128
+        ],
+        [
+            "College of Alice & Peter Tan (CAPT)",
+            "University Scholars Programme",
+            0.17158879194546622
+        ],
+        [
+            "College of Alice & Peter Tan (CAPT)",
+            "Yale-NUS College",
+            0.0872947038191354
+        ],
+        [
+            "College of Alice & Peter Tan (CAPT)",
+            "Yong Siew Toh Conservatory of Music",
+            0.7171185981278353
+        ],
+        [
+            "College of Alice & Peter Tan (CAPT)",
+            "University Cultural Centre",
+            0.8274736719739053
+        ],
+        [
+            "College of Alice & Peter Tan (CAPT)",
+            "Education Resource Centre",
+            0.24529036028429635
+        ],
+        [
+            "College of Alice & Peter Tan (CAPT)",
+            "Yusof Ishak House",
+            1.2230887788092681
+        ],
+        [
+            "College of Alice & Peter Tan (CAPT)",
+            "Raffles Hall",
+            1.041635141254215
+        ],
+        [
+            "College of Alice & Peter Tan (CAPT)",
+            "University Town Residences",
+            0.403470620987665
+        ],
+        [
+            "College of Alice & Peter Tan (CAPT)",
+            "Residential College 4",
+            0.07935271705490872
+        ],
+        [
+            "College of Alice & Peter Tan (CAPT)",
+            "College of Alice & Peter Tan (CAPT)",
+            0
+        ]
+    ]
+]

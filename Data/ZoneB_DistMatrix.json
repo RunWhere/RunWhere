@@ -1,0 +1,629 @@
+[
+    [
+        [
+            "Faculty of Dentistry",
+            "Faculty of Dentistry",
+            0
+        ],
+        [
+            "Faculty of Dentistry",
+            "Yoo Lin School of Medicine",
+            0.4144345369569057
+        ],
+        [
+            "Faculty of Dentistry",
+            "Medical Library",
+            0.539013893138355
+        ],
+        [
+            "Faculty of Dentistry",
+            "Saw Swee Hock School of Public Health",
+            0.6013742760834909
+        ],
+        [
+            "Faculty of Dentistry",
+            "Science Library",
+            0.6380464209067847
+        ],
+        [
+            "Faculty of Dentistry",
+            "Faculty of Science",
+            0.5624995651426643
+        ],
+        [
+            "Faculty of Dentistry",
+            "NUS Graduate School for Integrative Sciences and Engineering",
+            1.031301050978251
+        ],
+        [
+            "Faculty of Dentistry",
+            "University Hall",
+            0.8933170449303769
+        ],
+        [
+            "Faculty of Dentistry",
+            "TMSI",
+            1.2379054786987316
+        ],
+        [
+            "Faculty of Dentistry",
+            "King Edward VII Hall",
+            1.6475428140791908
+        ],
+        [
+            "Faculty of Dentistry",
+            "Ridge View Residential College",
+            0.9796981426093857
+        ]
+    ],
+    [
+        [
+            "Yoo Lin School of Medicine",
+            "Faculty of Dentistry",
+            0.4144345369569057
+        ],
+        [
+            "Yoo Lin School of Medicine",
+            "Yoo Lin School of Medicine",
+            0
+        ],
+        [
+            "Yoo Lin School of Medicine",
+            "Medical Library",
+            0.12457935618144932
+        ],
+        [
+            "Yoo Lin School of Medicine",
+            "Saw Swee Hock School of Public Health",
+            0.1869397391265852
+        ],
+        [
+            "Yoo Lin School of Medicine",
+            "Science Library",
+            0.2236118839498789
+        ],
+        [
+            "Yoo Lin School of Medicine",
+            "Faculty of Science",
+            0.1480650281857586
+        ],
+        [
+            "Yoo Lin School of Medicine",
+            "NUS Graduate School for Integrative Sciences and Engineering",
+            0.6168665140213452
+        ],
+        [
+            "Yoo Lin School of Medicine",
+            "University Hall",
+            0.4788825079734712
+        ],
+        [
+            "Yoo Lin School of Medicine",
+            "TMSI",
+            0.8234709417418258
+        ],
+        [
+            "Yoo Lin School of Medicine",
+            "King Edward VII Hall",
+            1.233108277122285
+        ],
+        [
+            "Yoo Lin School of Medicine",
+            "Ridge View Residential College",
+            0.56526360565248
+        ]
+    ],
+    [
+        [
+            "Medical Library",
+            "Faculty of Dentistry",
+            0.539013893138355
+        ],
+        [
+            "Medical Library",
+            "Yoo Lin School of Medicine",
+            0.12457935618144932
+        ],
+        [
+            "Medical Library",
+            "Medical Library",
+            0
+        ],
+        [
+            "Medical Library",
+            "Saw Swee Hock School of Public Health",
+            0.181631843776269
+        ],
+        [
+            "Medical Library",
+            "Science Library",
+            0.2280422617048829
+        ],
+        [
+            "Medical Library",
+            "Faculty of Science",
+            0.2726443843672079
+        ],
+        [
+            "Medical Library",
+            "NUS Graduate School for Integrative Sciences and Engineering",
+            0.7414458702027945
+        ],
+        [
+            "Medical Library",
+            "University Hall",
+            0.6034618641549205
+        ],
+        [
+            "Medical Library",
+            "TMSI",
+            0.9480502979232751
+        ],
+        [
+            "Medical Library",
+            "King Edward VII Hall",
+            1.1085289209408358
+        ],
+        [
+            "Medical Library",
+            "Ridge View Residential College",
+            0.6898429618339293
+        ]
+    ],
+    [
+        [
+            "Saw Swee Hock School of Public Health",
+            "Faculty of Dentistry",
+            0.6013742760834909
+        ],
+        [
+            "Saw Swee Hock School of Public Health",
+            "Yoo Lin School of Medicine",
+            0.1869397391265852
+        ],
+        [
+            "Saw Swee Hock School of Public Health",
+            "Medical Library",
+            0.181631843776269
+        ],
+        [
+            "Saw Swee Hock School of Public Health",
+            "Saw Swee Hock School of Public Health",
+            0
+        ],
+        [
+            "Saw Swee Hock School of Public Health",
+            "Science Library",
+            0.046410417928613903
+        ],
+        [
+            "Saw Swee Hock School of Public Health",
+            "Faculty of Science",
+            0.135248080992062
+        ],
+        [
+            "Saw Swee Hock School of Public Health",
+            "NUS Graduate School for Integrative Sciences and Engineering",
+            0.6040495668276487
+        ],
+        [
+            "Saw Swee Hock School of Public Health",
+            "University Hall",
+            0.46606556077977457
+        ],
+        [
+            "Saw Swee Hock School of Public Health",
+            "TMSI",
+            0.8106539945481293
+        ],
+        [
+            "Saw Swee Hock School of Public Health",
+            "King Edward VII Hall",
+            1.278097248480393
+        ],
+        [
+            "Saw Swee Hock School of Public Health",
+            "Ridge View Residential College",
+            0.5524466584587834
+        ]
+    ],
+    [
+        [
+            "Science Library",
+            "Faculty of Dentistry",
+            0.6380464209067847
+        ],
+        [
+            "Science Library",
+            "Yoo Lin School of Medicine",
+            0.2236118839498789
+        ],
+        [
+            "Science Library",
+            "Medical Library",
+            0.2280422617048829
+        ],
+        [
+            "Science Library",
+            "Saw Swee Hock School of Public Health",
+            0.046410417928613903
+        ],
+        [
+            "Science Library",
+            "Science Library",
+            0
+        ],
+        [
+            "Science Library",
+            "Faculty of Science",
+            0.0888376630634481
+        ],
+        [
+            "Science Library",
+            "NUS Graduate School for Integrative Sciences and Engineering",
+            0.5576391488990348
+        ],
+        [
+            "Science Library",
+            "University Hall",
+            0.4196551428511607
+        ],
+        [
+            "Science Library",
+            "TMSI",
+            0.7642435766195154
+        ],
+        [
+            "Science Library",
+            "King Edward VII Hall",
+            1.270113269832161
+        ],
+        [
+            "Science Library",
+            "Ridge View Residential College",
+            0.5060362405301695
+        ]
+    ],
+    [
+        [
+            "Faculty of Science",
+            "Faculty of Dentistry",
+            0.5624995651426643
+        ],
+        [
+            "Faculty of Science",
+            "Yoo Lin School of Medicine",
+            0.1480650281857586
+        ],
+        [
+            "Faculty of Science",
+            "Medical Library",
+            0.2726443843672079
+        ],
+        [
+            "Faculty of Science",
+            "Saw Swee Hock School of Public Health",
+            0.135248080992062
+        ],
+        [
+            "Faculty of Science",
+            "Science Library",
+            0.0888376630634481
+        ],
+        [
+            "Faculty of Science",
+            "Faculty of Science",
+            0
+        ],
+        [
+            "Faculty of Science",
+            "NUS Graduate School for Integrative Sciences and Engineering",
+            0.4688014858355866
+        ],
+        [
+            "Faculty of Science",
+            "University Hall",
+            0.3308174797877126
+        ],
+        [
+            "Faculty of Science",
+            "TMSI",
+            0.6754059135560672
+        ],
+        [
+            "Faculty of Science",
+            "King Edward VII Hall",
+            1.3589509328956093
+        ],
+        [
+            "Faculty of Science",
+            "Ridge View Residential College",
+            0.4171985774667214
+        ]
+    ],
+    [
+        [
+            "NUS Graduate School for Integrative Sciences and Engineering",
+            "Faculty of Dentistry",
+            1.031301050978251
+        ],
+        [
+            "NUS Graduate School for Integrative Sciences and Engineering",
+            "Yoo Lin School of Medicine",
+            0.6168665140213452
+        ],
+        [
+            "NUS Graduate School for Integrative Sciences and Engineering",
+            "Medical Library",
+            0.7414458702027945
+        ],
+        [
+            "NUS Graduate School for Integrative Sciences and Engineering",
+            "Saw Swee Hock School of Public Health",
+            0.6040495668276487
+        ],
+        [
+            "NUS Graduate School for Integrative Sciences and Engineering",
+            "Science Library",
+            0.5576391488990348
+        ],
+        [
+            "NUS Graduate School for Integrative Sciences and Engineering",
+            "Faculty of Science",
+            0.4688014858355866
+        ],
+        [
+            "NUS Graduate School for Integrative Sciences and Engineering",
+            "NUS Graduate School for Integrative Sciences and Engineering",
+            0
+        ],
+        [
+            "NUS Graduate School for Integrative Sciences and Engineering",
+            "University Hall",
+            0.18317565094596433
+        ],
+        [
+            "NUS Graduate School for Integrative Sciences and Engineering",
+            "TMSI",
+            0.20660442772048057
+        ],
+        [
+            "NUS Graduate School for Integrative Sciences and Engineering",
+            "King Edward VII Hall",
+            1.827752418731196
+        ],
+        [
+            "NUS Graduate School for Integrative Sciences and Engineering",
+            "Ridge View Residential College",
+            0.13597404869420654
+        ]
+    ],
+    [
+        [
+            "University Hall",
+            "Faculty of Dentistry",
+            0.8933170449303769
+        ],
+        [
+            "University Hall",
+            "Yoo Lin School of Medicine",
+            0.4788825079734712
+        ],
+        [
+            "University Hall",
+            "Medical Library",
+            0.6034618641549205
+        ],
+        [
+            "University Hall",
+            "Saw Swee Hock School of Public Health",
+            0.46606556077977457
+        ],
+        [
+            "University Hall",
+            "Science Library",
+            0.4196551428511607
+        ],
+        [
+            "University Hall",
+            "Faculty of Science",
+            0.3308174797877126
+        ],
+        [
+            "University Hall",
+            "NUS Graduate School for Integrative Sciences and Engineering",
+            0.18317565094596433
+        ],
+        [
+            "University Hall",
+            "University Hall",
+            0
+        ],
+        [
+            "University Hall",
+            "TMSI",
+            0.3658447312504188
+        ],
+        [
+            "University Hall",
+            "King Edward VII Hall",
+            1.689768412683322
+        ],
+        [
+            "University Hall",
+            "Ridge View Residential College",
+            0.08638109767900883
+        ]
+    ],
+    [
+        [
+            "TMSI",
+            "Faculty of Dentistry",
+            1.2379054786987316
+        ],
+        [
+            "TMSI",
+            "Yoo Lin School of Medicine",
+            0.8234709417418258
+        ],
+        [
+            "TMSI",
+            "Medical Library",
+            0.9480502979232751
+        ],
+        [
+            "TMSI",
+            "Saw Swee Hock School of Public Health",
+            0.8106539945481293
+        ],
+        [
+            "TMSI",
+            "Science Library",
+            0.7642435766195154
+        ],
+        [
+            "TMSI",
+            "Faculty of Science",
+            0.6754059135560672
+        ],
+        [
+            "TMSI",
+            "NUS Graduate School for Integrative Sciences and Engineering",
+            0.20660442772048057
+        ],
+        [
+            "TMSI",
+            "University Hall",
+            0.3658447312504188
+        ],
+        [
+            "TMSI",
+            "TMSI",
+            0
+        ],
+        [
+            "TMSI",
+            "King Edward VII Hall",
+            1.9131577884737354
+        ],
+        [
+            "TMSI",
+            "Ridge View Residential College",
+            0.27946363357140996
+        ]
+    ],
+    [
+        [
+            "King Edward VII Hall",
+            "Faculty of Dentistry",
+            1.6475428140791908
+        ],
+        [
+            "King Edward VII Hall",
+            "Yoo Lin School of Medicine",
+            1.233108277122285
+        ],
+        [
+            "King Edward VII Hall",
+            "Medical Library",
+            1.1085289209408358
+        ],
+        [
+            "King Edward VII Hall",
+            "Saw Swee Hock School of Public Health",
+            1.278097248480393
+        ],
+        [
+            "King Edward VII Hall",
+            "Science Library",
+            1.270113269832161
+        ],
+        [
+            "King Edward VII Hall",
+            "Faculty of Science",
+            1.3589509328956093
+        ],
+        [
+            "King Edward VII Hall",
+            "NUS Graduate School for Integrative Sciences and Engineering",
+            1.827752418731196
+        ],
+        [
+            "King Edward VII Hall",
+            "University Hall",
+            1.689768412683322
+        ],
+        [
+            "King Edward VII Hall",
+            "TMSI",
+            1.9131577884737354
+        ],
+        [
+            "King Edward VII Hall",
+            "King Edward VII Hall",
+            0
+        ],
+        [
+            "King Edward VII Hall",
+            "Ridge View Residential College",
+            1.7761495103623308
+        ]
+    ],
+    [
+        [
+            "Ridge View Residential College",
+            "Faculty of Dentistry",
+            0.9796981426093857
+        ],
+        [
+            "Ridge View Residential College",
+            "Yoo Lin School of Medicine",
+            0.56526360565248
+        ],
+        [
+            "Ridge View Residential College",
+            "Medical Library",
+            0.6898429618339293
+        ],
+        [
+            "Ridge View Residential College",
+            "Saw Swee Hock School of Public Health",
+            0.5524466584587834
+        ],
+        [
+            "Ridge View Residential College",
+            "Science Library",
+            0.5060362405301695
+        ],
+        [
+            "Ridge View Residential College",
+            "Faculty of Science",
+            0.4171985774667214
+        ],
+        [
+            "Ridge View Residential College",
+            "NUS Graduate School for Integrative Sciences and Engineering",
+            0.13597404869420654
+        ],
+        [
+            "Ridge View Residential College",
+            "University Hall",
+            0.08638109767900883
+        ],
+        [
+            "Ridge View Residential College",
+            "TMSI",
+            0.27946363357140996
+        ],
+        [
+            "Ridge View Residential College",
+            "King Edward VII Hall",
+            1.7761495103623308
+        ],
+        [
+            "Ridge View Residential College",
+            "Ridge View Residential College",
+            0
+        ]
+    ]
+]

@@ -24,7 +24,7 @@ def floydWarshall(adjMatrix):
             # print(dist[v][u][2])
             if dist[v][u][2] != INF or v == u:
                 path[v][u] = v
-            else:
+            else: 
                 path[v][u] = -1
  
     # run Floyd–Warshall

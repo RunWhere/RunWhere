@@ -81,6 +81,16 @@ def exportEdge():
     for i in range(len(fileName)):
         createFile(fileName[i], edgeData[i])
     
+def exportDistPathMatrix():
+
+    zones = ["ZoneA", "ZoneB", "ZoneC"]
+    
+    for i in zones:
+        distPath = floydWarshall(testAdjMatrix(i)[1])
+        distFileName = i + "_DistMatrix" # ZoneA_DistMatrix.json
+        pathFileName = i + "_PathMatrix" # ZoneA_PathMatrix.json
+        createFile(distFileName, distPath[0])
+        createFile(pathFileName, distPath[1])
 
 
 def testEdgeExistence():
@@ -112,8 +122,8 @@ def preprocessing():
 
 # preprocessing()
 # testAdjMatrix("ZoneA")
-testFloydWarshall("ZoneA")
-
+# testFloydWarshall("ZoneA")
+# exportDistPathMatrix()
 #  (Greedy BFS) for 3 options (2.4km, 5km and 10km)
 # preprocessing for 2.4, 5 and 10
 # # distance space o(V^2) * 3

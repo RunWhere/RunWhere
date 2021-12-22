@@ -1,0 +1,1157 @@
+[
+    [
+        [
+            "Business School",
+            "Business School",
+            0
+        ],
+        [
+            "Business School",
+            "Faculty of Arts and Social Sciences",
+            0.40846525070973616
+        ],
+        [
+            "Business School",
+            "Institute of Systems Science",
+            0.3797719733081827
+        ],
+        [
+            "Business School",
+            "School of Computing",
+            0.09535358120278223
+        ],
+        [
+            "Business School",
+            "Central Library",
+            0.2788762680789744
+        ],
+        [
+            "Business School",
+            "Hon Sui Sen Memorial Library",
+            0.1356367505464789
+        ],
+        [
+            "Business School",
+            "I3",
+            0.2961646969857905
+        ],
+        [
+            "Business School",
+            "I4",
+            1.7883267495258899
+        ],
+        [
+            "Business School",
+            "TCOMS",
+            0.2729734300112675
+        ],
+        [
+            "Business School",
+            "Eusoff Hall",
+            0.5748765077585237
+        ],
+        [
+            "Business School",
+            "Kent Ridge Hall",
+            0.2652490236991758
+        ],
+        [
+            "Business School",
+            "PGP House",
+            0.7716962546948674
+        ],
+        [
+            "Business School",
+            "Prince George's Park Residences",
+            0.870189022910544
+        ],
+        [
+            "Business School",
+            "Sheares Hall",
+            0.3835505989250346
+        ],
+        [
+            "Business School",
+            "Temasek Hall",
+            0.5829646875775015
+        ]
+    ],
+    [
+        [
+            "Faculty of Arts and Social Sciences",
+            "Business School",
+            0.40846525070973616
+        ],
+        [
+            "Faculty of Arts and Social Sciences",
+            "Faculty of Arts and Social Sciences",
+            0
+        ],
+        [
+            "Faculty of Arts and Social Sciences",
+            "Institute of Systems Science",
+            0.7882372240179187
+        ],
+        [
+            "Faculty of Arts and Social Sciences",
+            "School of Computing",
+            0.3131116695069539
+        ],
+        [
+            "Faculty of Arts and Social Sciences",
+            "Central Library",
+            0.28758853031207754
+        ],
+        [
+            "Faculty of Arts and Social Sciences",
+            "Hon Sui Sen Memorial Library",
+            0.544102001256215
+        ],
+        [
+            "Faculty of Arts and Social Sciences",
+            "I3",
+            0.7046299476955266
+        ],
+        [
+            "Faculty of Arts and Social Sciences",
+            "I4",
+            2.196792000235626
+        ],
+        [
+            "Faculty of Arts and Social Sciences",
+            "TCOMS",
+            0.6814386807210037
+        ],
+        [
+            "Faculty of Arts and Social Sciences",
+            "Eusoff Hall",
+            0.16641125704878754
+        ],
+        [
+            "Faculty of Arts and Social Sciences",
+            "Kent Ridge Hall",
+            0.5417177177782737
+        ],
+        [
+            "Faculty of Arts and Social Sciences",
+            "PGP House",
+            1.1801615054046035
+        ],
+        [
+            "Faculty of Arts and Social Sciences",
+            "Prince George's Park Residences",
+            1.2786542736202802
+        ],
+        [
+            "Faculty of Arts and Social Sciences",
+            "Sheares Hall",
+            0.6989969274795832
+        ],
+        [
+            "Faculty of Arts and Social Sciences",
+            "Temasek Hall",
+            0.1744994368677654
+        ]
+    ],
+    [
+        [
+            "Institute of Systems Science",
+            "Business School",
+            0.3797719733081827
+        ],
+        [
+            "Institute of Systems Science",
+            "Faculty of Arts and Social Sciences",
+            0.7882372240179187
+        ],
+        [
+            "Institute of Systems Science",
+            "Institute of Systems Science",
+            0
+        ],
+        [
+            "Institute of Systems Science",
+            "School of Computing",
+            0.4751255545109649
+        ],
+        [
+            "Institute of Systems Science",
+            "Central Library",
+            0.658648241387157
+        ],
+        [
+            "Institute of Systems Science",
+            "Hon Sui Sen Memorial Library",
+            0.2441352227617038
+        ],
+        [
+            "Institute of Systems Science",
+            "I3",
+            0.08360727632239219
+        ],
+        [
+            "Institute of Systems Science",
+            "I4",
+            2.1554172771969333
+        ],
+        [
+            "Institute of Systems Science",
+            "TCOMS",
+            0.13015481079312669
+        ],
+        [
+            "Institute of Systems Science",
+            "Eusoff Hall",
+            0.8644685625401792
+        ],
+        [
+            "Institute of Systems Science",
+            "Kent Ridge Hall",
+            0.36384913903527005
+        ],
+        [
+            "Institute of Systems Science",
+            "PGP House",
+            0.6288776354767266
+        ],
+        [
+            "Institute of Systems Science",
+            "Prince George's Park Residences",
+            0.7273704036924032
+        ],
+        [
+            "Institute of Systems Science",
+            "Sheares Hall",
+            0.20656992933396057
+        ],
+        [
+            "Institute of Systems Science",
+            "Temasek Hall",
+            0.7310674199457784
+        ]
+    ],
+    [
+        [
+            "School of Computing",
+            "Business School",
+            0.09535358120278223
+        ],
+        [
+            "School of Computing",
+            "Faculty of Arts and Social Sciences",
+            0.3131116695069539
+        ],
+        [
+            "School of Computing",
+            "Institute of Systems Science",
+            0.4751255545109649
+        ],
+        [
+            "School of Computing",
+            "School of Computing",
+            0
+        ],
+        [
+            "School of Computing",
+            "Central Library",
+            0.1835226868761922
+        ],
+        [
+            "School of Computing",
+            "Hon Sui Sen Memorial Library",
+            0.23099033174926112
+        ],
+        [
+            "School of Computing",
+            "I3",
+            0.3915182781885727
+        ],
+        [
+            "School of Computing",
+            "I4",
+            1.883680330728672
+        ],
+        [
+            "School of Computing",
+            "TCOMS",
+            0.36832701121404976
+        ],
+        [
+            "School of Computing",
+            "Eusoff Hall",
+            0.47952292655574147
+        ],
+        [
+            "School of Computing",
+            "Kent Ridge Hall",
+            0.360602604901958
+        ],
+        [
+            "School of Computing",
+            "PGP House",
+            0.8670498358976497
+        ],
+        [
+            "School of Computing",
+            "Prince George's Park Residences",
+            0.9655426041133264
+        ],
+        [
+            "School of Computing",
+            "Sheares Hall",
+            0.4789041801278169
+        ],
+        [
+            "School of Computing",
+            "Temasek Hall",
+            0.48761110637471927
+        ]
+    ],
+    [
+        [
+            "Central Library",
+            "Business School",
+            0.2788762680789744
+        ],
+        [
+            "Central Library",
+            "Faculty of Arts and Social Sciences",
+            0.28758853031207754
+        ],
+        [
+            "Central Library",
+            "Institute of Systems Science",
+            0.658648241387157
+        ],
+        [
+            "Central Library",
+            "School of Computing",
+            0.1835226868761922
+        ],
+        [
+            "Central Library",
+            "Central Library",
+            0
+        ],
+        [
+            "Central Library",
+            "Hon Sui Sen Memorial Library",
+            0.4145130186254533
+        ],
+        [
+            "Central Library",
+            "I3",
+            0.5750409650647649
+        ],
+        [
+            "Central Library",
+            "I4",
+            2.0672030176048644
+        ],
+        [
+            "Central Library",
+            "TCOMS",
+            0.551849698090242
+        ],
+        [
+            "Central Library",
+            "Eusoff Hall",
+            0.4539997873608651
+        ],
+        [
+            "Central Library",
+            "Kent Ridge Hall",
+            0.5441252917781502
+        ],
+        [
+            "Central Library",
+            "PGP House",
+            1.0505725227738418
+        ],
+        [
+            "Central Library",
+            "Prince George's Park Residences",
+            1.1490652909895185
+        ],
+        [
+            "Central Library",
+            "Sheares Hall",
+            0.6624268670040091
+        ],
+        [
+            "Central Library",
+            "Temasek Hall",
+            0.4620879671798429
+        ]
+    ],
+    [
+        [
+            "Hon Sui Sen Memorial Library",
+            "Business School",
+            0.1356367505464789
+        ],
+        [
+            "Hon Sui Sen Memorial Library",
+            "Faculty of Arts and Social Sciences",
+            0.544102001256215
+        ],
+        [
+            "Hon Sui Sen Memorial Library",
+            "Institute of Systems Science",
+            0.2441352227617038
+        ],
+        [
+            "Hon Sui Sen Memorial Library",
+            "School of Computing",
+            0.23099033174926112
+        ],
+        [
+            "Hon Sui Sen Memorial Library",
+            "Central Library",
+            0.4145130186254533
+        ],
+        [
+            "Hon Sui Sen Memorial Library",
+            "Hon Sui Sen Memorial Library",
+            0
+        ],
+        [
+            "Hon Sui Sen Memorial Library",
+            "I3",
+            0.1605279464393116
+        ],
+        [
+            "Hon Sui Sen Memorial Library",
+            "I4",
+            1.9239635000723687
+        ],
+        [
+            "Hon Sui Sen Memorial Library",
+            "TCOMS",
+            0.3210535296750143
+        ],
+        [
+            "Hon Sui Sen Memorial Library",
+            "Eusoff Hall",
+            0.630231696657606
+        ],
+        [
+            "Hon Sui Sen Memorial Library",
+            "Kent Ridge Hall",
+            0.12961227315269688
+        ],
+        [
+            "Hon Sui Sen Memorial Library",
+            "PGP House",
+            0.8197763543586143
+        ],
+        [
+            "Hon Sui Sen Memorial Library",
+            "Prince George's Park Residences",
+            0.9182691225742909
+        ],
+        [
+            "Hon Sui Sen Memorial Library",
+            "Sheares Hall",
+            0.24791384837855576
+        ],
+        [
+            "Hon Sui Sen Memorial Library",
+            "Temasek Hall",
+            0.4968305540632052
+        ]
+    ],
+    [
+        [
+            "I3",
+            "Business School",
+            0.2961646969857905
+        ],
+        [
+            "I3",
+            "Faculty of Arts and Social Sciences",
+            0.7046299476955266
+        ],
+        [
+            "I3",
+            "Institute of Systems Science",
+            0.08360727632239219
+        ],
+        [
+            "I3",
+            "School of Computing",
+            0.3915182781885727
+        ],
+        [
+            "I3",
+            "Central Library",
+            0.5750409650647649
+        ],
+        [
+            "I3",
+            "Hon Sui Sen Memorial Library",
+            0.1605279464393116
+        ],
+        [
+            "I3",
+            "I3",
+            0
+        ],
+        [
+            "I3",
+            "I4",
+            2.0844914465116804
+        ],
+        [
+            "I3",
+            "TCOMS",
+            0.16052558323570273
+        ],
+        [
+            "I3",
+            "Eusoff Hall",
+            0.780861286217787
+        ],
+        [
+            "I3",
+            "Kent Ridge Hall",
+            0.2802418627128779
+        ],
+        [
+            "I3",
+            "PGP House",
+            0.6592484079193026
+        ],
+        [
+            "I3",
+            "Prince George's Park Residences",
+            0.7577411761349793
+        ],
+        [
+            "I3",
+            "Sheares Hall",
+            0.12296265301156836
+        ],
+        [
+            "I3",
+            "Temasek Hall",
+            0.6474601436233862
+        ]
+    ],
+    [
+        [
+            "I4",
+            "Business School",
+            1.7883267495258899
+        ],
+        [
+            "I4",
+            "Faculty of Arts and Social Sciences",
+            2.196792000235626
+        ],
+        [
+            "I4",
+            "Institute of Systems Science",
+            2.1554172771969333
+        ],
+        [
+            "I4",
+            "School of Computing",
+            1.883680330728672
+        ],
+        [
+            "I4",
+            "Central Library",
+            2.0672030176048644
+        ],
+        [
+            "I4",
+            "Hon Sui Sen Memorial Library",
+            1.9239635000723687
+        ],
+        [
+            "I4",
+            "I3",
+            2.0844914465116804
+        ],
+        [
+            "I4",
+            "I4",
+            0
+        ],
+        [
+            "I4",
+            "TCOMS",
+            2.025262466403807
+        ],
+        [
+            "I4",
+            "Eusoff Hall",
+            2.3632032572844137
+        ],
+        [
+            "I4",
+            "Kent Ridge Hall",
+            2.0535757732250657
+        ],
+        [
+            "I4",
+            "PGP House",
+            2.5239852910874068
+        ],
+        [
+            "I4",
+            "Prince George's Park Residences",
+            2.6224780593030834
+        ],
+        [
+            "I4",
+            "Sheares Hall",
+            2.1718773484509244
+        ],
+        [
+            "I4",
+            "Temasek Hall",
+            2.371291437103391
+        ]
+    ],
+    [
+        [
+            "TCOMS",
+            "Business School",
+            0.2729734300112675
+        ],
+        [
+            "TCOMS",
+            "Faculty of Arts and Social Sciences",
+            0.6814386807210037
+        ],
+        [
+            "TCOMS",
+            "Institute of Systems Science",
+            0.13015481079312669
+        ],
+        [
+            "TCOMS",
+            "School of Computing",
+            0.36832701121404976
+        ],
+        [
+            "TCOMS",
+            "Central Library",
+            0.551849698090242
+        ],
+        [
+            "TCOMS",
+            "Hon Sui Sen Memorial Library",
+            0.3210535296750143
+        ],
+        [
+            "TCOMS",
+            "I3",
+            0.16052558323570273
+        ],
+        [
+            "TCOMS",
+            "I4",
+            2.025262466403807
+        ],
+        [
+            "TCOMS",
+            "TCOMS",
+            0
+        ],
+        [
+            "TCOMS",
+            "Eusoff Hall",
+            0.8478499377697912
+        ],
+        [
+            "TCOMS",
+            "Kent Ridge Hall",
+            0.4407674459485806
+        ],
+        [
+            "TCOMS",
+            "PGP House",
+            0.4987228246835999
+        ],
+        [
+            "TCOMS",
+            "Prince George's Park Residences",
+            0.5972155928992766
+        ],
+        [
+            "TCOMS",
+            "Sheares Hall",
+            0.2834882362472711
+        ],
+        [
+            "TCOMS",
+            "Temasek Hall",
+            0.8079857268590889
+        ]
+    ],
+    [
+        [
+            "Eusoff Hall",
+            "Business School",
+            0.5748765077585237
+        ],
+        [
+            "Eusoff Hall",
+            "Faculty of Arts and Social Sciences",
+            0.16641125704878754
+        ],
+        [
+            "Eusoff Hall",
+            "Institute of Systems Science",
+            0.8644685625401792
+        ],
+        [
+            "Eusoff Hall",
+            "School of Computing",
+            0.47952292655574147
+        ],
+        [
+            "Eusoff Hall",
+            "Central Library",
+            0.4539997873608651
+        ],
+        [
+            "Eusoff Hall",
+            "Hon Sui Sen Memorial Library",
+            0.630231696657606
+        ],
+        [
+            "Eusoff Hall",
+            "I3",
+            0.780861286217787
+        ],
+        [
+            "Eusoff Hall",
+            "I4",
+            2.3632032572844137
+        ],
+        [
+            "Eusoff Hall",
+            "TCOMS",
+            0.8478499377697912
+        ],
+        [
+            "Eusoff Hall",
+            "Eusoff Hall",
+            0
+        ],
+        [
+            "Eusoff Hall",
+            "Kent Ridge Hall",
+            0.5006194235049092
+        ],
+        [
+            "Eusoff Hall",
+            "PGP House",
+            1.3465727624533912
+        ],
+        [
+            "Eusoff Hall",
+            "Prince George's Park Residences",
+            1.4450655306690678
+        ],
+        [
+            "Eusoff Hall",
+            "Sheares Hall",
+            0.6578986332062187
+        ],
+        [
+            "Eusoff Hall",
+            "Temasek Hall",
+            0.1334011425944008
+        ]
+    ],
+    [
+        [
+            "Kent Ridge Hall",
+            "Business School",
+            0.2652490236991758
+        ],
+        [
+            "Kent Ridge Hall",
+            "Faculty of Arts and Social Sciences",
+            0.5417177177782737
+        ],
+        [
+            "Kent Ridge Hall",
+            "Institute of Systems Science",
+            0.36384913903527005
+        ],
+        [
+            "Kent Ridge Hall",
+            "School of Computing",
+            0.360602604901958
+        ],
+        [
+            "Kent Ridge Hall",
+            "Central Library",
+            0.5441252917781502
+        ],
+        [
+            "Kent Ridge Hall",
+            "Hon Sui Sen Memorial Library",
+            0.12961227315269688
+        ],
+        [
+            "Kent Ridge Hall",
+            "I3",
+            0.2802418627128779
+        ],
+        [
+            "Kent Ridge Hall",
+            "I4",
+            2.0535757732250657
+        ],
+        [
+            "Kent Ridge Hall",
+            "TCOMS",
+            0.4407674459485806
+        ],
+        [
+            "Kent Ridge Hall",
+            "Eusoff Hall",
+            0.5006194235049092
+        ],
+        [
+            "Kent Ridge Hall",
+            "Kent Ridge Hall",
+            0
+        ],
+        [
+            "Kent Ridge Hall",
+            "PGP House",
+            0.9394902706321805
+        ],
+        [
+            "Kent Ridge Hall",
+            "Prince George's Park Residences",
+            1.037983038847857
+        ],
+        [
+            "Kent Ridge Hall",
+            "Sheares Hall",
+            0.15727920970130949
+        ],
+        [
+            "Kent Ridge Hall",
+            "Temasek Hall",
+            0.36721828091050834
+        ]
+    ],
+    [
+        [
+            "PGP House",
+            "Business School",
+            0.7716962546948674
+        ],
+        [
+            "PGP House",
+            "Faculty of Arts and Social Sciences",
+            1.1801615054046035
+        ],
+        [
+            "PGP House",
+            "Institute of Systems Science",
+            0.6288776354767266
+        ],
+        [
+            "PGP House",
+            "School of Computing",
+            0.8670498358976497
+        ],
+        [
+            "PGP House",
+            "Central Library",
+            1.0505725227738418
+        ],
+        [
+            "PGP House",
+            "Hon Sui Sen Memorial Library",
+            0.8197763543586143
+        ],
+        [
+            "PGP House",
+            "I3",
+            0.6592484079193026
+        ],
+        [
+            "PGP House",
+            "I4",
+            2.5239852910874068
+        ],
+        [
+            "PGP House",
+            "TCOMS",
+            0.4987228246835999
+        ],
+        [
+            "PGP House",
+            "Eusoff Hall",
+            1.3465727624533912
+        ],
+        [
+            "PGP House",
+            "Kent Ridge Hall",
+            0.9394902706321805
+        ],
+        [
+            "PGP House",
+            "PGP House",
+            0
+        ],
+        [
+            "PGP House",
+            "Prince George's Park Residences",
+            0.09849276821567668
+        ],
+        [
+            "PGP House",
+            "Sheares Hall",
+            0.782211060930871
+        ],
+        [
+            "PGP House",
+            "Temasek Hall",
+            1.3067085515426888
+        ]
+    ],
+    [
+        [
+            "Prince George's Park Residences",
+            "Business School",
+            0.870189022910544
+        ],
+        [
+            "Prince George's Park Residences",
+            "Faculty of Arts and Social Sciences",
+            1.2786542736202802
+        ],
+        [
+            "Prince George's Park Residences",
+            "Institute of Systems Science",
+            0.7273704036924032
+        ],
+        [
+            "Prince George's Park Residences",
+            "School of Computing",
+            0.9655426041133264
+        ],
+        [
+            "Prince George's Park Residences",
+            "Central Library",
+            1.1490652909895185
+        ],
+        [
+            "Prince George's Park Residences",
+            "Hon Sui Sen Memorial Library",
+            0.9182691225742909
+        ],
+        [
+            "Prince George's Park Residences",
+            "I3",
+            0.7577411761349793
+        ],
+        [
+            "Prince George's Park Residences",
+            "I4",
+            2.6224780593030834
+        ],
+        [
+            "Prince George's Park Residences",
+            "TCOMS",
+            0.5972155928992766
+        ],
+        [
+            "Prince George's Park Residences",
+            "Eusoff Hall",
+            1.4450655306690678
+        ],
+        [
+            "Prince George's Park Residences",
+            "Kent Ridge Hall",
+            1.037983038847857
+        ],
+        [
+            "Prince George's Park Residences",
+            "PGP House",
+            0.09849276821567668
+        ],
+        [
+            "Prince George's Park Residences",
+            "Prince George's Park Residences",
+            0
+        ],
+        [
+            "Prince George's Park Residences",
+            "Sheares Hall",
+            0.8807038291465477
+        ],
+        [
+            "Prince George's Park Residences",
+            "Temasek Hall",
+            1.4052013197583655
+        ]
+    ],
+    [
+        [
+            "Sheares Hall",
+            "Business School",
+            0.3835505989250346
+        ],
+        [
+            "Sheares Hall",
+            "Faculty of Arts and Social Sciences",
+            0.6989969274795832
+        ],
+        [
+            "Sheares Hall",
+            "Institute of Systems Science",
+            0.20656992933396057
+        ],
+        [
+            "Sheares Hall",
+            "School of Computing",
+            0.4789041801278169
+        ],
+        [
+            "Sheares Hall",
+            "Central Library",
+            0.6624268670040091
+        ],
+        [
+            "Sheares Hall",
+            "Hon Sui Sen Memorial Library",
+            0.24791384837855576
+        ],
+        [
+            "Sheares Hall",
+            "I3",
+            0.12296265301156836
+        ],
+        [
+            "Sheares Hall",
+            "I4",
+            2.1718773484509244
+        ],
+        [
+            "Sheares Hall",
+            "TCOMS",
+            0.2834882362472711
+        ],
+        [
+            "Sheares Hall",
+            "Eusoff Hall",
+            0.6578986332062187
+        ],
+        [
+            "Sheares Hall",
+            "Kent Ridge Hall",
+            0.15727920970130949
+        ],
+        [
+            "Sheares Hall",
+            "PGP House",
+            0.782211060930871
+        ],
+        [
+            "Sheares Hall",
+            "Prince George's Park Residences",
+            0.8807038291465477
+        ],
+        [
+            "Sheares Hall",
+            "Sheares Hall",
+            0
+        ],
+        [
+            "Sheares Hall",
+            "Temasek Hall",
+            0.5244974906118178
+        ]
+    ],
+    [
+        [
+            "Temasek Hall",
+            "Business School",
+            0.5829646875775015
+        ],
+        [
+            "Temasek Hall",
+            "Faculty of Arts and Social Sciences",
+            0.1744994368677654
+        ],
+        [
+            "Temasek Hall",
+            "Institute of Systems Science",
+            0.7310674199457784
+        ],
+        [
+            "Temasek Hall",
+            "School of Computing",
+            0.48761110637471927
+        ],
+        [
+            "Temasek Hall",
+            "Central Library",
+            0.4620879671798429
+        ],
+        [
+            "Temasek Hall",
+            "Hon Sui Sen Memorial Library",
+            0.4968305540632052
+        ],
+        [
+            "Temasek Hall",
+            "I3",
+            0.6474601436233862
+        ],
+        [
+            "Temasek Hall",
+            "I4",
+            2.371291437103391
+        ],
+        [
+            "Temasek Hall",
+            "TCOMS",
+            0.8079857268590889
+        ],
+        [
+            "Temasek Hall",
+            "Eusoff Hall",
+            0.1334011425944008
+        ],
+        [
+            "Temasek Hall",
+            "Kent Ridge Hall",
+            0.36721828091050834
+        ],
+        [
+            "Temasek Hall",
+            "PGP House",
+            1.3067085515426888
+        ],
+        [
+            "Temasek Hall",
+            "Prince George's Park Residences",
+            1.4052013197583655
+        ],
+        [
+            "Temasek Hall",
+            "Sheares Hall",
+            0.5244974906118178
+        ],
+        [
+            "Temasek Hall",
+            "Temasek Hall",
+            0
+        ]
+    ]
+]
