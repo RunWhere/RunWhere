@@ -15,5 +15,52 @@
         "King Edward VII Hall",
         "Prince George's Park Residences",
         0.7439167124442922
-    ]
+    ],
+
+    "ZoneA" : [
+        {
+            "ZoneB" : [
+                "Yusof Ishak House",
+                "TMSI",
+                0.2579733961833731
+            ],
+
+            "ZoneC" : [
+                "Centre for English Language Communication (CELC)",
+                "Central Library",
+                0.42855548188731196
+            ]
+        }
+    ],
+
+    "ZoneB" : [ 
+        {
+            "ZoneA" : [
+                "TMSI",
+                "Yusof Ishak House",
+                0.2579733961833731
+            ]
+        },
+        {}
+        "ZoneC" : [
+            "Prince George's Park Residences",
+            "King Edward VII Hall",
+            0.7439167124442922
+        ]
+
+    ],
+    
+    "ZoneC" : 
+        {
+            "ZoneA" : [
+                "Central Library",
+                "Centre for English Language Communication (CELC)",
+                0.42855548188731196
+            ],
+            "ZoneB" : [
+                "Prince George's Park Residences",
+                "King Edward VII Hall",
+                0.7439167124442922
+            ]
+        }
 }
