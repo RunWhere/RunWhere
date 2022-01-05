@@ -1,22 +1,4 @@
 {
-    "ZoneAC" : [
-        "Centre for English Language Communication (CELC)",
-        "Central Library",
-        0.42855548188731196
-    ],
-    
-    "ZoneAB" : [
-        "Yusof Ishak House",
-        "TMSI",
-        0.2579733961833731
-    ],
-    
-    "ZoneBC" : [
-        "King Edward VII Hall",
-        "Prince George's Park Residences",
-        0.7439167124442922
-    ],
-
     "ZoneA" : [
         {
             "ZoneB" : [
@@ -24,7 +6,6 @@
                 "TMSI",
                 0.2579733961833731
             ],
-
             "ZoneC" : [
                 "Centre for English Language Communication (CELC)",
                 "Central Library",
@@ -39,18 +20,17 @@
                 "TMSI",
                 "Yusof Ishak House",
                 0.2579733961833731
+            ],
+            "ZoneC" : [
+                "Prince George's Park Residences",
+                "King Edward VII Hall",
+                0.7439167124442922
             ]
-        },
-        {}
-        "ZoneC" : [
-            "Prince George's Park Residences",
-            "King Edward VII Hall",
-            0.7439167124442922
-        ]
+        }
 
     ],
     
-    "ZoneC" : 
+    "ZoneC" : [
         {
             "ZoneA" : [
                 "Central Library",
@@ -63,4 +43,5 @@
                 0.7439167124442922
             ]
         }
+    ]
 }
